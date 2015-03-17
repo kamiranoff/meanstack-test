@@ -7,10 +7,8 @@ var express = require('express'),
     path = require('path'),
     //!SASS
     app = express(),
-    db = mongoose.connection;
-
-
-    port = 3030;
+    db = mongoose.connection,
+    port = process.env.PORT || 3030;
 
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
@@ -39,8 +37,13 @@ if ('development' == env) {
 var messageSchema = mongoose.Schema({message:String});
 var Message = mongoose.model('Message',messageSchema);
 var mongoMessage;
+
 //db = mongoose.connection
-mongoose.connect('mongodb://localhost/meanstack');
+if(env === 'development'){
+ mongoose.connect('mongodb://localhost/meanstack');
+}else{
+mongoose.connect('kamiranoff:Jenifer75@ds027479.mongolab.com:27479/meanstack');
+}
 db.on('error',console.error.bind(console,'connection error ...'));
 db.once('open',function callback(){
   console.log('db is opened');
@@ -54,10 +57,10 @@ app.get('/partials/:partialPath',function(req,res){
 });
 
 
-app.get('*',function(req,res){
+app.get('/',function(req,res){
   Message.find(function(err,messageDoc){
     res.render('index',{
-      mongoMessage: messageDoc[1].message
+      mongoMessage: messageDoc[0].message
     });
   });
 

@@ -1,12 +1,16 @@
 {
-  "name": "Multivision",
-  "version": "1.0.0",
+  "name": "Meanstack Tuto",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "engines":{
+    "node":"0.10.x",
+    "npm":"1.4.x"
+  },
+  "author": "kevin Amiranoff",
   "license": "ISC",
   "dependencies": {
     "express": "^4.12.2",
