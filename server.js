@@ -35,34 +35,36 @@ if ('development' == env) {
   app.use(bodyParser.json());
 }
 
+
+var messageSchema = mongoose.Schema({message:String});
+var Message = mongoose.model('Message',messageSchema);
+var mongoMessage;
 //db = mongoose.connection
 mongoose.connect('mongodb://localhost/meanstack');
 db.on('error',console.error.bind(console,'connection error ...'));
 db.once('open',function callback(){
   console.log('db is opened');
+
 });
-var messageSchema = mongoose.Schema({message:String});
-var Message = mongoose.model('Message',messageSchema);
-var mongoMessage;
-Message.findOne().exec(function(err,messageDoc){
-  mongoMessage = messageDoc.message;
-});
+
 
 
 app.get('/partials/:partialPath',function(req,res){
   res.render('partials/'+req.params.partialPath);
 });
 
+
 app.get('*',function(req,res){
-  res.render('index',{
-    mongoMessage: mongoMessage
+  Message.find(function(err,messageDoc){
+    res.render('index',{
+      mongoMessage: messageDoc[1].message
+    });
   });
 
 });
 
 
 
-  console.log(Message);
 app.listen(port);
 console.log('Listening on port '+port+ '...');
 
