@@ -22,12 +22,12 @@ app.use(sassMiddleware({
 }));
 //!SASS
 
-if ('development' == env) {
+
+
 
 
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
-}
 
   app.set('views', __dirname + '/server/views');
   app.set('view engine','jade');
