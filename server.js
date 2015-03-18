@@ -1,6 +1,5 @@
 var express = require('express'),
     mongoose = require('mongoose'),
-    morgan = require('morgan'),
     bodyParser = require('body-parser'),
     //SASS
     sassMiddleware = require('node-sass-middleware'),
@@ -28,7 +27,7 @@ if ('development' == env) {
   app.set('view engine','jade');
 
   app.use(express.static(path.join(__dirname, 'public')));
-  app.use(morgan('combined'));
+
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
 }
