@@ -23,15 +23,16 @@ app.use(sassMiddleware({
 //!SASS
 
 if ('development' == env) {
-  app.set('views', __dirname + '/server/views');
-  app.set('view engine','jade');
 
-  app.use(express.static(path.join(__dirname, 'public')));
 
   app.use(bodyParser.urlencoded({ extended: true }));
   app.use(bodyParser.json());
 }
 
+  app.set('views', __dirname + '/server/views');
+  app.set('view engine','jade');
+
+  app.use(express.static(path.join(__dirname, 'public')));
 
 var messageSchema = mongoose.Schema({message:String});
 var Message = mongoose.model('Message',messageSchema);
