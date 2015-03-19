@@ -1,2 +1,11 @@
-h1 THis is a partial
-h2 {{myVar}}
+.container
+  .jumbotron
+    h1 Meanstack Prototype
+    p.lead Allright ;)
+
+
+  .row
+    .col-md-6
+      div(ng-include="'partials/featured-courses'")
+    .col-md-6
+      div(ng-include="'partials/new-courses'")
