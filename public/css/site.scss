@@ -1,1 +1,23 @@
-body{background-color: #efefef;color:#333;font-family: 'Helvetica Neue';font-weight: 300;padding-top: 61px}
+//body{background-color: #efefef;color:#333;font-family: 'Helvetica Neue';font-weight: 300;padding-top: 61px}
+
+.navbar-header{
+  .navbar-brand{
+
+  }
+  h6{
+    color:#ccc;
+  }
+}
+footer{
+  padding-left: 15px;
+  padding-right: 15px;
+  p{
+    border-top: 1px solid #d7e0e2;
+  }
+}
+
+.navbar-form{
+  .form-group,button{
+    margin-left: 10px;
+  }
+}

@@ -4,30 +4,34 @@
     <title>Meanstack Prototype</title>
     <base href="/">
     <link href="favicon.ico" rel="icon">
-    <link href="/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.css" rel="stylesheet">
+    <link href="/css/bootstrap.css" rel="stylesheet">
+    <link href="/css/superhero.min.css" rel="stylesheet">
     <link href="/bower_components/toastr/toastr.css" rel="stylesheet">
     <link href="/css/site.css" rel="stylesheet">
   </head>
   <body ng-app="app">
-    <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header"><a href="#" class="navbar-brand">Meanstack Prototype
-            <h6>-Extreme Tech Training</h6></a></div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li><a href="#">Home</a></li>
-          </ul>
-        </div>
+    <div class="navbar navbar-default navbar-fixed-top">
+      <div class="navbar-header"><a href="#" class="navbar-brand">Meanstack Prototype
+          <h6>-Extreme Tech Training</h6></a></div>
+      <div class="navbar-collapse collapse">
+        <ul class="nav navbar-nav">
+          <li><a href="#">Home</a></li>
+        </ul>
+        <div ng-include="account/navbar-login"></div>
       </div>
     </div>
     <section class="content">
       <div ng-view></div>
     </section>
     <h2></h2>
+    <footer>
+      <p>Copyright 2015</p>
+    </footer>
     <script type="text/javascript" src="/bower_components/jquery/dist/jquery.js"></script>
     <script type="text/javascript" src="/bower_components/angular/angular.js"></script>
     <script type="text/javascript" src="/bower_components/angular-route/angular-route.js"></script>
     <script type="text/javascript" src="/bower_components/angular-resource/angular-resource.js"></script>
     <script type="text/javascript" src="/app/app.js"></script>
+    <script type="text/javascript" src="/app/main/mvMainCtrl.js"></script>
   </body>
 </html>
