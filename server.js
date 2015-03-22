@@ -1,76 +1,24 @@
-var express = require('express'),
-    mongoose = require('mongoose'),
-    bodyParser = require('body-parser'),
-    //SASS
-    sassMiddleware = require('node-sass-middleware'),
-    path = require('path'),
-    //!SASS
-    app = express(),
-    db = mongoose.connection,
-    port = process.env.PORT || 3030;
+var express = require('express');
+
+var app = express();
 
 var env = process.env.NODE_ENV = process.env.NODE_ENV || 'development';
+var config = require('./server/config/config')[env];
+
+require('./server/config/express')(app, config);
+require('./server/config/mongoose')(config);
+require('./server/config/logs')(app);
+require('./server/config/passport')();
 
 
-//SASS
-app.use(sassMiddleware({
-    src: __dirname,
-    dest: path.join(__dirname, 'public'),
-    debug: true,
-    outputStyle: 'nested',
-    prefix:  '/prefix'
-}));
-//!SASS
-
-
-
-
-
-  app.use(bodyParser.urlencoded({ extended: true }));
-  app.use(bodyParser.json());
-
-  app.set('views', __dirname + '/server/views');
-  app.set('view engine','jade');
-
-  app.use(express.static(path.join(__dirname, 'public')));
-
-var messageSchema = mongoose.Schema({message:String});
-var Message = mongoose.model('Message',messageSchema);
-var mongoMessage;
-
-//db = mongoose.connection
-if(env === 'development'){
- mongoose.connect('mongodb://localhost/meanstack');
-}else{
-mongoose.connect('kamiranoff:Jenifer75@ds027479.mongolab.com:27479/meanstack');
-}
-db.on('error',console.error.bind(console,'connection error ...'));
-db.once('open',function callback(){
-  console.log('db is opened');
-
+// this middleware will be executed for every request to the app
+app.use(function (req, res, next) {
+  console.log('Time: %d', Date.now());
+  next();
 });
 
 
 
-
-app.get('/partials/:partialPath',function(req,res){
-  res.render('partials/'+req.params.partialPath);
-});
-
-
-app.get('/',function(req,res){
-  Message.find(function(err,messageDoc){
-    res.render('index',{
-      mongoMessage: messageDoc[0].message
-    });
-  });
-
-});
-
-
-
-app.listen(port);
-console.log('Listening on port '+port+ '...');
-
-
-
+require('./server/config/routes')(app);
+app.listen(config.port);
+console.log('Listening on port ' + config.port + '...');

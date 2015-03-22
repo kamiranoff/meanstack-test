@@ -1,0 +1,20 @@
+
+<div ng-controller="mvNavBarLoginCtrl" class="navbar-right">
+  <form ng-hide="identity.isAuthenticated()" class="navbar-form">
+    <div class="form-group">
+      <input placeholder="userName" ng-model="userName" class="form-control"/>
+    </div>
+    <div class="form-group">
+      <input type="password" placeholder="password" ng-model="password" class="form-control"/>
+    </div>
+    <button ng-click="signin(userName, password)" class="btn btn-primary">Sign in</button>
+  </form>
+  <ul ng-show="identity.isAuthenticated()" class="nav navbar-nav navbar-right">
+    <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Hello {{identity.currentUser.firstName}}<b class="caret"></b></a>
+      <ul class="dropdown-menu">
+        <li ng-show="identity.currentUser.isAdmin()"><a href="/admin/user ">User Admin</a></li>
+        <li><a href="#" ng-click="signout()">Sign Out</a></li>
+      </ul>
+    </li>
+  </ul>
+</div>

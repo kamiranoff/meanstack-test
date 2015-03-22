@@ -1,11 +1,18 @@
 doctype
 html
   head
+    title Meanstack Prototype
     base(href="/")
     link(href="favicon.ico",rel="icon")
-    link(href="/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.css",rel="stylesheet")
+    link(href="/css/bootstrap.css",rel="stylesheet")
+    link(href="/css/superhero.min.css", rel="stylesheet")
     link(href="/bower_components/toastr/toastr.css",rel="stylesheet")
     link(href="/css/site.css",rel="stylesheet")
   body(ng-app="app")
+    include currentUser
+
+    include header
+
     block main-content
+    include footer
     include scripts
