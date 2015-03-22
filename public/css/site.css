@@ -1,13 +1,25 @@
+.navbar{padding:5px;}
 .navbar-header h6 {
-  color: #ccc; }
-
+  color: #ccc;
+}
 footer {
   padding-left: 15px;
-  padding-right: 15px; }
-  footer p {
-    border-top: 1px solid #d7e0e2; }
-
+  padding-right: 15px;
+}
+footer p {
+  border-top: 1px solid #d7e0e2;
+}
 .navbar-form .form-group, .navbar-form button {
-  margin-left: 10px; }
-
+  margin-left: 10px;
+}
+.row {
+  margin: 0;
+}
 /*# sourceMappingURL=site.css.map */
+
+@media (min-width: 768px){
+  .navbar-right {
+    margin-right: 0;
+    /* margin-right: -15px; */
+  }
+}
