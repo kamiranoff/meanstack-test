@@ -15,6 +15,22 @@ angular.module('app').factory('mvAuth',function($http,mvIdentity,$q,mvUser){
     });
     return dfd.promise;
     },
+    createUser: function(newUserData){
+      var newUser = new mvUser(newUserData);
+      console.log(newUser);
+      var dfd = $q.defer();
+
+      newUser.$save().then(function(){
+        mvIdentity.currentUser = newUser;
+        dfd.resolve();
+      },
+      function(response){
+        console.log(response);
+        dfd.reject(response.data.reason);
+      });
+
+      return dfd.promise;
+    },
     logoutUser: function(){
       var dfd = $q.defer();
       $http.post('/logout', {logout:true}).then(function(){

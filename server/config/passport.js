@@ -33,7 +33,6 @@ module.exports = function() {
 
   //SERIALIZE
   passport.serializeUser(function(user, done) {
-    console.log('Serializing: ', user);
     if (user) {
       done(null, user._id);
     }
@@ -44,7 +43,6 @@ module.exports = function() {
     User.findOne({
       _id: id
     }, function(err, user) {
-      console.log('Deserializing: ', id);
       if (user) {
         return done(null, user);
       } else {

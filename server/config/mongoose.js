@@ -1,5 +1,5 @@
 var mongoose = require('mongoose'),
-  crypto = require('crypto');
+    encrypt = require('../utilities/encryption');
 
 module.exports = function(config) {
 
@@ -17,6 +17,7 @@ module.exports = function(config) {
 
   var userSchema = mongoose.Schema({
     firstName: String,
+    email:String,
     lastName: String,
     userName: String,
     salt: String,
@@ -25,7 +26,7 @@ module.exports = function(config) {
   });
   userSchema.methods = {
     authenticate: function(passwordToMatch){
-      return hashPwd(this.salt,passwordToMatch) === this.hashed_pwd;
+      return encrypt.hashPwd(this.salt,passwordToMatch) === this.hashed_pwd;
     }
   };
   var User = mongoose.model('User', userSchema);
@@ -35,33 +36,36 @@ module.exports = function(config) {
       var salt,
         hash;
 
-      salt = createSalt();
-      hash = hashPwd(salt, 'Jenifer75@');
+      salt = encrypt.createSalt();
+      hash = encrypt.hashPwd(salt, 'Jenifer75@');
 
       User.create({
         firstName: 'kevin',
         lastName: 'Amiranoff',
         userName: 'kevin',
+        email:'kamiranoff@gmail.com',
         salt: salt,
         hashed_pwd: hash,
         roles:['admin']
       });
-      salt = createSalt();
-      hash = hashPwd(salt, 'Jenifer75@');
+      salt = encrypt.createSalt();
+      hash = encrypt.hashPwd(salt, 'Jenifer75@');
       User.create({
         firstName: 'Betsy',
         lastName: 'Braddock',
         userName: 'psylocke',
+        email:'betsy@xmen.com',
         salt: salt,
         hashed_pwd: hash,
         roles:[]
       });
-      salt = createSalt();
-      hash = hashPwd(salt, 'Jenifer75@');
+      salt = encrypt.createSalt();
+      hash = encrypt.hashPwd(salt, 'Jenifer75@');
       User.create({
         firstName: 'Kitty',
         lastName: 'Pryde',
         userName: 'shadowcat',
+        email:'kitty@xmen.com',
         salt: salt,
         hashed_pwd: hash
       });
@@ -70,11 +74,4 @@ module.exports = function(config) {
   });
 };
 
-function createSalt() {
-  return crypto.randomBytes(128).toString('base64');
-}
 
-function hashPwd(salt, pwd) {
-  var hmac = crypto.createHmac('sha1', salt);
-  return hmac.update(pwd).digest('hex');
-}

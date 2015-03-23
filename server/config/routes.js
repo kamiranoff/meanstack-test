@@ -1,19 +1,16 @@
 var auth = require('./auth'),
+    users = require('../controllers/users'),
     bodyParser = require('body-parser'),
     mongoose = require('mongoose'),
     User = mongoose.model('User');
 
 module.exports = function(app) {
 
-  app.get('/api/users', auth.requireRole('admin'), function(req,res){
-    User.find({}).exec(function(err,collection){
-      res.send(collection);
-    });
-  });
+  app.get('/api/users', auth.requireRole('admin'),users.getUsers);
+  app.post('/api/users', users.createUser);
 
       // Serve jade tempates from partials
   app.get('/partials/*', function(req, res){
-    console.log(req.params);
     res.render('../../public/app/' + req.params[0]);
 
   });
