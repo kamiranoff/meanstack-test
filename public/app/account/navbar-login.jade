@@ -11,7 +11,7 @@
   ul.nav.navbar-nav.navbar-right(ng-show="identity.isAuthenticated()")
     li.dropdown
       a.dropdown-toggle(href="#",data-toggle="dropdown")
-        | Hello {{identity.currentUser.firstName}}
+        | Hello {{identity.currentUser.userName}}
         b.caret
       ul.dropdown-menu
         li(ng-show="identity.currentUser.isAdmin()")

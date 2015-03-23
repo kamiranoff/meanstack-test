@@ -12,9 +12,11 @@ module.exports = function() {
     },
     function(userName, password, done) {
       console.log("Authenticating user: ", userName, password);
-      User.findOne({
-        userName: userName
-      }).exec(function(err, user) {
+
+      //Check for userName of Password.
+      var criteria = (userName.indexOf('@') === -1) ? {userName: userName} : {email: userName};
+
+      User.findOne(criteria,function(err, user) {
         if (err) {
           return done(err);
         }

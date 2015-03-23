@@ -2,6 +2,9 @@ var passport = require('passport'),
   bodyParser = require('body-parser');
 
 exports.authenticate = function(req, res, next) {
+  console.log(req.body);
+  req.body.userName = req.body.userName.toLowerCase();
+
   console.log("body parsing", req.body);
   var auth = passport.authenticate('local', {
       failureFlash: true
