@@ -12,9 +12,11 @@ module.exports = function() {
     },
     function(userName, password, done) {
       console.log("Authenticating user: ", userName, password);
-      User.findOne({
-        userName: userName
-      }).exec(function(err, user) {
+
+      //Check for userName of Password.
+      var criteria = (userName.indexOf('@') === -1) ? {userName: userName} : {email: userName};
+
+      User.findOne(criteria,function(err, user) {
         if (err) {
           return done(err);
         }
@@ -33,7 +35,6 @@ module.exports = function() {
 
   //SERIALIZE
   passport.serializeUser(function(user, done) {
-    console.log('Serializing: ', user);
     if (user) {
       done(null, user._id);
     }
@@ -44,7 +45,6 @@ module.exports = function() {
     User.findOne({
       _id: id
     }, function(err, user) {
-      console.log('Deserializing: ', id);
       if (user) {
         return done(null, user);
       } else {

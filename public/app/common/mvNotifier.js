@@ -9,6 +9,13 @@ angular.module('app').factory('mvNotifier',function(mvToastr){
     warning: function(msg){
       mvToastr.warning(msg);
       console.log(msg);
+    },
+    error: function(msg){
+      if(typeof msg === 'undefined'){
+        msg = 'ok';
+      }
+      mvToastr.error(msg);
+      console.log(msg);
     }
   };
 });

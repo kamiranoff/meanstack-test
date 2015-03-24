@@ -1,0 +1,5 @@
+.container
+  h1 The list of the Users
+  table.table
+    tr(ng-repeat="user in users")
+      td {{user.firstName + ' ' + user.lastName}}
