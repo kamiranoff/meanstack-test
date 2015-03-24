@@ -8,6 +8,7 @@ module.exports = function(app) {
 
   app.get('/api/users', auth.requireRole('admin'),users.getUsers);
   app.post('/api/users', users.createUser);
+  app.put('/api/users', users.updateUser);
 
       // Serve jade tempates from partials
   app.get('/partials/*', function(req, res){
