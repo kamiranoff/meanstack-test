@@ -12,6 +12,7 @@ module.exports = function(app) {
   app.put('/api/users', users.updateUser);
 
   app.get('/api/courses', courses.getCourses);
+  app.get('/api/courses/:id', courses.getCourseById);
 
   // Serve jade tempates from partials
   app.get('/partials/*', function(req, res){

@@ -1,5 +1,15 @@
 
-<div class="container top-padding-med">
+<div class="container filtering">
+  <div class="pull-right">
+    <form class="form-inline">
+      <div class="form-group">
+        <input ng-model="searchText" placeholder="Search" class="form-group-control"/>
+      </div>
+      <div class="form-group">
+        <select ng-model="sortOrder" ng-options="item.value as item.text for item in sortOptions" class="form-group-control"></select>
+      </div>
+    </form>
+  </div>
   <table class="table table-hover table-striped table-condensed">
     <thead>
       <tr>
@@ -8,8 +18,8 @@
       </tr>
     </thead>
     <tbody>
-      <tr ng-repeat="course in courses">
-        <td>{{course.title}}</td>
+      <tr ng-repeat="course in courses | filter:searchText | orderBy:sortOrder">
+        <td><a href="/courses/{{course._id}}">{{course.title}}</a></td>
         <td>{{course.published | date}}</td>
       </tr>
     </tbody>
