@@ -3,7 +3,9 @@ var auth = require('./auth'),
     bodyParser = require('body-parser'),
     courses = require('../controllers/courses'),
     mongoose = require('mongoose'),
-    User = mongoose.model('User');
+    User = mongoose.model('User'),
+    kevininfo = require('../controllers/kevininfo');
+    Kevin = mongoose.model('Kevin');
 
 module.exports = function(app) {
 
@@ -13,12 +15,14 @@ module.exports = function(app) {
 
   app.get('/api/courses', courses.getCourses);
   app.get('/api/courses/:id', courses.getCourseById);
+  app.get('/api/kevin', kevininfo.getKevinInfo);
 
   // Serve jade tempates from partials
   app.get('/partials/*', function(req, res){
     res.render('../../public/app/' + req.params[0]);
 
   });
+
 
 
   app.post('/login', auth.authenticate);
