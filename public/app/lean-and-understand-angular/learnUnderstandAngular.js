@@ -6,7 +6,9 @@ mainAngularApp.controller('mvLearnCtrl',['$scope','$log','$filter',function($sco
   $scope.filtering = $filter('uppercase')($scope.title);
 
   $scope.handle ='';
+
   $scope.characters = 5;
+
   $log.log("log");
   $log.info($scope.filtering);
   $log.warn('Warning');
