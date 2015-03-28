@@ -1,0 +1,10 @@
+
+<h1>{{title}}</h1>
+<p>{{'In ' + how(10,4) + ' hours'}}</p>
+<input type="text" ng-model="handle"/>
+<p>I am {{handle}}</p>
+<div ng-class="{'alert-warning':handle.length &lt; characters,'alert-danger':handle.length &gt; characters,'alert-success':handle.length === characters}" class="alert">
+  <p ng-show="handle.length &lt; characters">You have  less 5 characters</p>
+  <p ng-show="handle.length &gt; characters">You have more than 5 characters</p>
+  <p ng-if="handle.length === characters">You have the right amount of characters</p>
+</div>

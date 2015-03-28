@@ -1,4 +1,4 @@
-angular.module('app').controller('mvNavBarLoginCtrl',function($scope,$http,mvIdentity,mvNotifier,mvAuth,$location){
+mainAngularApp.controller('mvNavBarLoginCtrl',function($scope,$http,mvIdentity,mvNotifier,mvAuth,$location){
   $scope.identity = mvIdentity;
   $scope.signin = function(userName,password){
     mvAuth.authenticateUser(userName,password).then(function(success){

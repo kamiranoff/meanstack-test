@@ -1,4 +1,4 @@
-angular.module('app').controller('mvCourseListCtrl', function($scope,mvCachedCourses){
+mainAngularApp.controller('mvCourseListCtrl', function($scope,mvCachedCourses){
   $scope.courses = mvCachedCourses.query();
 
   $scope.sortOptions = [

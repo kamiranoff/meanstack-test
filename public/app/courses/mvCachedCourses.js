@@ -1,4 +1,4 @@
-angular.module('app').factory('mvCachedCourses', function (mvCourse) {
+mainAngularApp.factory('mvCachedCourses', function (mvCourse) {
   var courseList;
 
   return {

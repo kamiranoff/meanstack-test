@@ -1,0 +1,9 @@
+h1 {{title}}
+p {{'In ' + how(10,4) + ' hours'}}
+input(type="text" ng-model="handle")
+p I am {{handle}}
+.alert(ng-class="{'alert-warning':handle.length < characters,'alert-danger':handle.length > characters,'alert-success':handle.length === characters}",)
+  p(ng-show="handle.length < characters") You have  less 5 characters
+  p(ng-show="handle.length > characters") You have more than 5 characters
+  p(ng-if="handle.length === characters") You have the right amount of characters
+

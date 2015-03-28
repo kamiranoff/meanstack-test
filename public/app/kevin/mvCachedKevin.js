@@ -1,4 +1,4 @@
-angular.module('app').factory('mvCachedKevin', function (mvKevin) {
+mainAngularApp.factory('mvCachedKevin', function (mvKevin) {
   var kevininfo;
 
   return {

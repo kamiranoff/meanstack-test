@@ -1,3 +1,3 @@
-angular.module('app').controller('mvMainCtrl',function($scope, mvCachedCourses){
+mainAngularApp.controller('mvMainCtrl',function($scope, mvCachedCourses){
   $scope.courses = mvCachedCourses.query();
 });

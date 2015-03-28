@@ -1,4 +1,4 @@
-angular.module('app').controller('mvProfileCtrl',function($scope,mvAuth,mvIdentity,mvNotifier){
+mainAngularApp.controller('mvProfileCtrl',function($scope,mvAuth,mvIdentity,mvNotifier){
   $scope.userName = mvIdentity.currentUser.userName;
   $scope.email = mvIdentity.currentUser.email;
   $scope.fname = mvIdentity.currentUser.firstName;

@@ -1,6 +1,6 @@
-angular.module('app', ['ngResource','ngRoute']);
+var mainAngularApp = angular.module('app', ['ngResource','ngRoute']);
 
-angular.module('app').config(function($routeProvider,$locationProvider){
+mainAngularApp.config(function($routeProvider,$locationProvider){
   var routeRoleChecks = {
     admin:{
         auth: function(mvAuth){
@@ -44,10 +44,13 @@ angular.module('app').config(function($routeProvider,$locationProvider){
     }).when('/about/kevin',{
       templateUrl: '/partials/kevin/kevin',
       controller: 'mvKevinCtrl',
+    }).when('/learn-understand-angular',{
+      templateUrl: '/partials/lean-and-understand-angular/angular1',
+      controller: 'mvLearnCtrl',
     });
 });
 
-angular.module('app').run(function($rootScope,$location){
+mainAngularApp.run(function($rootScope,$location){
   console.log($location);
     console.log('running');
   $rootScope.$on('$routeChangeError',function(evt,current,previous,rejection){

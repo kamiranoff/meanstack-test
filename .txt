@@ -1,0 +1,9 @@
+commit 7fc216a7f312c67019fbb03276d984d789fe54ac
+tree 21f82c05fe508393932440cc3a63f16d01a4f173
+parent eb34b1b2156e6b75f4919aabda586e26168f505f
+parent 06b59adbd54e9ae83f33345aeb301d574e52a3d1
+author Kevin Amiranoff <kamiranoff@gmail.com> 1427327677 +0100
+committer Kevin Amiranoff <kamiranoff@gmail.com> 1427327677 +0100
+
+    Merge branch 'master' of github.com:kamiranoff/meanstack-test
+

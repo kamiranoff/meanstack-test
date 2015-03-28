@@ -1,6 +1,6 @@
-angular.module('app').value('mvToastr',toastr);
+mainAngularApp.value('mvToastr',toastr);
 
-angular.module('app').factory('mvNotifier',function(mvToastr){
+mainAngularApp.factory('mvNotifier',function(mvToastr){
   return{
     success: function(msg){
       mvToastr.success(msg);
