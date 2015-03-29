@@ -1,0 +1,3699 @@
+{
+	"2": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-2/",
+		"id": 2,
+		"name": "Superman",
+		"site_detail_url": "http://www.comicvine.com/superman/4025-2/",
+		"box_office_revenue": "134218018",
+		"budget": "55000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/2/868526-superman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/2/868526-superman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/2/868526-superman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/2/868526-superman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/2/868526-superman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/2/868526-superman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/2/868526-superman.jpg"
+		},
+		"rating": "2",
+		"runtime": "143",
+		"total_revenue": "300218018",
+		"writers": null
+	},
+	"3": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-3/",
+		"id": 3,
+		"name": "Daredevil",
+		"site_detail_url": "http://www.comicvine.com/daredevil/4025-3/",
+		"box_office_revenue": "102543518",
+		"budget": "78000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868557-daredevil_ver2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868557-daredevil_ver2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868557-daredevil_ver2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868557-daredevil_ver2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868557-daredevil_ver2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868557-daredevil_ver2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868557-daredevil_ver2.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "103",
+		"total_revenue": "179179718",
+		"writers": null
+	},
+	"4": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-4/",
+		"id": 4,
+		"name": "Batman",
+		"site_detail_url": "http://www.comicvine.com/batman/4025-4/",
+		"box_office_revenue": "251185407",
+		"budget": "35000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/1152186-0abbatman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/1152186-0abbatman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/1152186-0abbatman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/1152186-0abbatman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/1152186-0abbatman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/1152186-0abbatman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/1152186-0abbatman.jpg"
+		},
+		"rating": "3",
+		"runtime": "126",
+		"total_revenue": "411348924",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-19137/",
+				"id": 19137,
+				"name": "Bob Kane",
+				"site_detail_url": "http://www.comicvine.com/bob-kane/4040-19137/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-41467/",
+				"id": 41467,
+				"name": "Sam Hamm",
+				"site_detail_url": "http://www.comicvine.com/sam-hamm/4040-41467/"
+			}
+		]
+	},
+	"5": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-5/",
+		"id": 5,
+		"name": "Superman II",
+		"site_detail_url": "http://www.comicvine.com/superman-ii/4025-5/",
+		"box_office_revenue": "108185706",
+		"budget": "54000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2725437-superman_ii.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2725437-superman_ii.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2725437-superman_ii.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2725437-superman_ii.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2725437-superman_ii.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2725437-superman_ii.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2725437-superman_ii.jpg"
+		},
+		"rating": "2",
+		"runtime": "127",
+		"total_revenue": "108185706",
+		"writers": null
+	},
+	"6": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-6/",
+		"id": 6,
+		"name": "Superman III",
+		"site_detail_url": "http://www.comicvine.com/superman-iii/4025-6/",
+		"box_office_revenue": "59950623",
+		"budget": "39000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/2/868571-superman_iii.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/2/868571-superman_iii.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/2/868571-superman_iii.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/2/868571-superman_iii.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/2/868571-superman_iii.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/2/868571-superman_iii.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/2/868571-superman_iii.jpg"
+		},
+		"rating": "2",
+		"runtime": "125",
+		"total_revenue": "59950623",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40754/",
+				"id": 40754,
+				"name": "Jerry Siegel",
+				"site_detail_url": "http://www.comicvine.com/jerry-siegel/4040-40754/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40755/",
+				"id": 40755,
+				"name": "Joe Shuster",
+				"site_detail_url": "http://www.comicvine.com/joe-shuster/4040-40755/"
+			}
+		]
+	},
+	"7": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-7/",
+		"id": 7,
+		"name": "Batman Returns",
+		"site_detail_url": "http://www.comicvine.com/batman-returns/4025-7/",
+		"box_office_revenue": "162831698",
+		"budget": "80000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868574-batmanreturns_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868574-batmanreturns_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868574-batmanreturns_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868574-batmanreturns_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868574-batmanreturns_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868574-batmanreturns_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868574-batmanreturns_poster.jpg"
+		},
+		"rating": "2",
+		"runtime": "126",
+		"total_revenue": "266822354",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-19137/",
+				"id": 19137,
+				"name": "Bob Kane",
+				"site_detail_url": "http://www.comicvine.com/bob-kane/4040-19137/"
+			}
+		]
+	},
+	"8": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-8/",
+		"id": 8,
+		"name": "Batman Forever",
+		"site_detail_url": "http://www.comicvine.com/batman-forever/4025-8/",
+		"box_office_revenue": "184031112",
+		"budget": "100000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868581-batman_forever_ver7.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868581-batman_forever_ver7.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868581-batman_forever_ver7.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868581-batman_forever_ver7.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868581-batman_forever_ver7.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868581-batman_forever_ver7.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868581-batman_forever_ver7.jpg"
+		},
+		"rating": "3",
+		"runtime": "122",
+		"total_revenue": "336529144",
+		"writers": null
+	},
+	"9": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-9/",
+		"id": 9,
+		"name": "Superman IV: The Quest For Peace",
+		"site_detail_url": "http://www.comicvine.com/superman-iv-the-quest-for-peace/4025-9/",
+		"box_office_revenue": "15681020",
+		"budget": "17000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/2/868592-superman_4.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/2/868592-superman_4.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/2/868592-superman_4.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/2/868592-superman_4.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/2/868592-superman_4.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/2/868592-superman_4.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/2/868592-superman_4.jpg"
+		},
+		"rating": "2",
+		"runtime": "90",
+		"total_revenue": "15681020",
+		"writers": null
+	},
+	"10": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-10/",
+		"id": 10,
+		"name": "Batman & Robin",
+		"site_detail_url": "http://www.comicvine.com/batman-robin/4025-10/",
+		"box_office_revenue": "107325195",
+		"budget": "125000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868593-batmanandrobinposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868593-batmanandrobinposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868593-batmanandrobinposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868593-batmanandrobinposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868593-batmanandrobinposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868593-batmanandrobinposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868593-batmanandrobinposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "125",
+		"total_revenue": "238207122",
+		"writers": null
+	},
+	"11": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-11/",
+		"id": 11,
+		"name": "Superman Returns",
+		"site_detail_url": "http://www.comicvine.com/superman-returns/4025-11/",
+		"box_office_revenue": "200081192",
+		"budget": "270000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/2/868612-superman_returns_ver2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/2/868612-superman_returns_ver2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/2/868612-superman_returns_ver2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/2/868612-superman_returns_ver2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/2/868612-superman_returns_ver2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/2/868612-superman_returns_ver2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/2/868612-superman_returns_ver2.jpg"
+		},
+		"rating": "3",
+		"runtime": "154",
+		"total_revenue": "391081192",
+		"writers": null
+	},
+	"12": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-12/",
+		"id": 12,
+		"name": "Batman Begins",
+		"site_detail_url": "http://www.comicvine.com/batman-begins/4025-12/",
+		"box_office_revenue": "205343774",
+		"budget": "150000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868618-movieposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868618-movieposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868618-movieposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868618-movieposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868618-movieposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868618-movieposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868618-movieposter.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "141",
+		"total_revenue": "372710015",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-46778/",
+				"id": 46778,
+				"name": "David S. Goyer",
+				"site_detail_url": "http://www.comicvine.com/david-s-goyer/4040-46778/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-71087/",
+				"id": 71087,
+				"name": "Christopher Nolan",
+				"site_detail_url": "http://www.comicvine.com/christopher-nolan/4040-71087/"
+			}
+		]
+	},
+	"15": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-15/",
+		"id": 15,
+		"name": "The Dark Knight",
+		"site_detail_url": "http://www.comicvine.com/the-dark-knight/4025-15/",
+		"box_office_revenue": "533345358",
+		"budget": "185000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868727-hr_the_dark_knight_51.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868727-hr_the_dark_knight_51.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868727-hr_the_dark_knight_51.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868727-hr_the_dark_knight_51.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868727-hr_the_dark_knight_51.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868727-hr_the_dark_knight_51.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868727-hr_the_dark_knight_51.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "152",
+		"total_revenue": "1001921852",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-71087/",
+				"id": 71087,
+				"name": "Christopher Nolan",
+				"site_detail_url": "http://www.comicvine.com/christopher-nolan/4040-71087/"
+			}
+		]
+	},
+	"17": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-17/",
+		"id": 17,
+		"name": "Iron Man",
+		"site_detail_url": "http://www.comicvine.com/iron-man/4025-17/",
+		"box_office_revenue": "585174222",
+		"budget": "140000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/77/868768-ironmanposter3.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/77/868768-ironmanposter3.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/77/868768-ironmanposter3.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/77/868768-ironmanposter3.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/77/868768-ironmanposter3.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/77/868768-ironmanposter3.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/77/868768-ironmanposter3.jpg"
+		},
+		"rating": "3",
+		"runtime": "126",
+		"total_revenue": "745174222",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-4068/",
+				"id": 4068,
+				"name": "Larry Lieber",
+				"site_detail_url": "http://www.comicvine.com/larry-lieber/4040-4068/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-6609/",
+				"id": 6609,
+				"name": "Don Heck",
+				"site_detail_url": "http://www.comicvine.com/don-heck/4040-6609/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			}
+		]
+	},
+	"18": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-18/",
+		"id": 18,
+		"name": "Ghost Rider",
+		"site_detail_url": "http://www.comicvine.com/ghost-rider/4025-18/",
+		"box_office_revenue": "115802596",
+		"budget": "110000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/868846-ghostriderposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/868846-ghostriderposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/868846-ghostriderposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/868846-ghostriderposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/868846-ghostriderposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/868846-ghostriderposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/868846-ghostriderposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "114",
+		"total_revenue": "228738393",
+		"writers": null
+	},
+	"22": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-22/",
+		"id": 22,
+		"name": "X-Men",
+		"site_detail_url": "http://www.comicvine.com/x-men/4025-22/",
+		"box_office_revenue": "157299717",
+		"budget": "75000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/871237-xmen.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/871237-xmen.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/871237-xmen.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/871237-xmen.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/871237-xmen.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/871237-xmen.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/871237-xmen.jpg"
+		},
+		"rating": "3",
+		"runtime": "104",
+		"total_revenue": "296339527",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-64499/",
+				"id": 64499,
+				"name": "Bryan Singer",
+				"site_detail_url": "http://www.comicvine.com/bryan-singer/4040-64499/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-67098/",
+				"id": 67098,
+				"name": "Tom DeSanto",
+				"site_detail_url": "http://www.comicvine.com/tom-desanto/4040-67098/"
+			}
+		]
+	},
+	"23": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-23/",
+		"id": 23,
+		"name": "X2: X-Men United",
+		"site_detail_url": "http://www.comicvine.com/x2-x-men-united/4025-23/",
+		"box_office_revenue": "214949694",
+		"budget": "110000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/29350/932575-x_men_two_ver3_xlg.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/29350/932575-x_men_two_ver3_xlg.jpg"
+		},
+		"rating": "3",
+		"runtime": "133",
+		"total_revenue": "407711549",
+		"writers": null
+	},
+	"24": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-24/",
+		"id": 24,
+		"name": "X-Men: The Last Stand",
+		"site_detail_url": "http://www.comicvine.com/x-men-the-last-stand/4025-24/",
+		"box_office_revenue": "234362462",
+		"budget": "210000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/868931-x3p_003.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/868931-x3p_003.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/868931-x3p_003.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/868931-x3p_003.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/868931-x3p_003.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/868931-x3p_003.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/868931-x3p_003.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "104",
+		"total_revenue": "459359555",
+		"writers": null
+	},
+	"25": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-25/",
+		"id": 25,
+		"name": "X-Men Origins: Wolverine",
+		"site_detail_url": "http://www.comicvine.com/x-men-origins-wolverine/4025-25/",
+		"box_office_revenue": "363360426",
+		"budget": "150000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/868942-wolverinetheatricalposter_a.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/868942-wolverinetheatricalposter_a.jpg"
+		},
+		"rating": "3",
+		"runtime": "107",
+		"total_revenue": "363356206",
+		"writers": null
+	},
+	"30": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-30/",
+		"id": 30,
+		"name": "Blade",
+		"site_detail_url": "http://www.comicvine.com/blade/4025-30/",
+		"box_office_revenue": "60000000",
+		"budget": "45000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2615005-bladeposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2615005-bladeposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2615005-bladeposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2615005-bladeposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2615005-bladeposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2615005-bladeposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2615005-bladeposter.jpg"
+		},
+		"rating": "R",
+		"runtime": "120",
+		"total_revenue": "131183530",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-46778/",
+				"id": 46778,
+				"name": "David S. Goyer",
+				"site_detail_url": "http://www.comicvine.com/david-s-goyer/4040-46778/"
+			}
+		]
+	},
+	"32": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-32/",
+		"id": 32,
+		"name": "Blade II",
+		"site_detail_url": "http://www.comicvine.com/blade-ii/4025-32/",
+		"box_office_revenue": null,
+		"budget": "54000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869075-blade_ii_movie.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869075-blade_ii_movie.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869075-blade_ii_movie.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869075-blade_ii_movie.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869075-blade_ii_movie.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869075-blade_ii_movie.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869075-blade_ii_movie.jpg"
+		},
+		"rating": "R",
+		"runtime": "117",
+		"total_revenue": "155010032",
+		"writers": null
+	},
+	"33": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-33/",
+		"id": 33,
+		"name": "Blade: Trinity",
+		"site_detail_url": "http://www.comicvine.com/blade-trinity/4025-33/",
+		"box_office_revenue": "52397389",
+		"budget": "65000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869077-blade_trinity_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869077-blade_trinity_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869077-blade_trinity_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869077-blade_trinity_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869077-blade_trinity_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869077-blade_trinity_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869077-blade_trinity_poster.jpg"
+		},
+		"rating": "R",
+		"runtime": "113",
+		"total_revenue": "128905366",
+		"writers": null
+	},
+	"34": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-34/",
+		"id": 34,
+		"name": "Spider-Man",
+		"site_detail_url": "http://www.comicvine.com/spider-man/4025-34/",
+		"box_office_revenue": "403706375",
+		"budget": "140000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/869105-spiderman_the_movie_poster_starring_tobey_maguire.jpg"
+		},
+		"rating": "3",
+		"runtime": "121",
+		"total_revenue": "821708551",
+		"writers": null
+	},
+	"39": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-39/",
+		"id": 39,
+		"name": "Howard the Duck",
+		"site_detail_url": "http://www.comicvine.com/howard-the-duck/4025-39/",
+		"box_office_revenue": "37962774",
+		"budget": "37000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/2/869101-howard_the_duck_ver1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/2/869101-howard_the_duck_ver1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/2/869101-howard_the_duck_ver1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/2/869101-howard_the_duck_ver1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/2/869101-howard_the_duck_ver1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/2/869101-howard_the_duck_ver1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/2/869101-howard_the_duck_ver1.jpg"
+		},
+		"rating": "2",
+		"runtime": "110",
+		"total_revenue": "47962774",
+		"writers": null
+	},
+	"40": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-40/",
+		"id": 40,
+		"name": "Fantastic Four",
+		"site_detail_url": "http://www.comicvine.com/fantastic-four/4025-40/",
+		"box_office_revenue": "154695569",
+		"budget": "100000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869104-fantastic_four_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869104-fantastic_four_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869104-fantastic_four_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869104-fantastic_four_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869104-fantastic_four_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869104-fantastic_four_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869104-fantastic_four_poster.jpg"
+		},
+		"rating": "3",
+		"runtime": "106",
+		"total_revenue": "330579719",
+		"writers": null
+	},
+	"41": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-41/",
+		"id": 41,
+		"name": "Fantastic Four: Rise of the Silver Surfer",
+		"site_detail_url": "http://www.comicvine.com/fantastic-four-rise-of-the-silver-surfer/4025-41/",
+		"box_office_revenue": "131921738",
+		"budget": "130000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869109-fanfour2_newposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869109-fanfour2_newposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869109-fanfour2_newposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869109-fanfour2_newposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869109-fanfour2_newposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869109-fanfour2_newposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869109-fanfour2_newposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "89",
+		"total_revenue": "289047763",
+		"writers": null
+	},
+	"42": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-42/",
+		"id": 42,
+		"name": "Spider-Man 2",
+		"site_detail_url": "http://www.comicvine.com/spider-man-2/4025-42/",
+		"box_office_revenue": "373585825",
+		"budget": "200000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/869113-spiderman2_2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/869113-spiderman2_2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/869113-spiderman2_2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/869113-spiderman2_2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/869113-spiderman2_2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/869113-spiderman2_2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/869113-spiderman2_2.jpg"
+		},
+		"rating": "3",
+		"runtime": "127",
+		"total_revenue": "783766341",
+		"writers": null
+	},
+	"44": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-44/",
+		"id": 44,
+		"name": "Hulk",
+		"site_detail_url": "http://www.comicvine.com/hulk/4025-44/",
+		"box_office_revenue": "245360480",
+		"budget": "137000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869115-hulk_movie.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869115-hulk_movie.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869115-hulk_movie.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869115-hulk_movie.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869115-hulk_movie.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869115-hulk_movie.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869115-hulk_movie.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "138",
+		"total_revenue": null,
+		"writers": null
+	},
+	"45": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-45/",
+		"id": 45,
+		"name": "The Incredible Hulk",
+		"site_detail_url": "http://www.comicvine.com/the-incredible-hulk/4025-45/",
+		"box_office_revenue": "263427551",
+		"budget": "150000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/9116/869116-hulk_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/9116/869116-hulk_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/9116/869116-hulk_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/9116/869116-hulk_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/9116/869116-hulk_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/9116/869116-hulk_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/9116/869116-hulk_poster.jpg"
+		},
+		"rating": "3",
+		"runtime": "112",
+		"total_revenue": "349183430",
+		"writers": null
+	},
+	"54": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-54/",
+		"id": 54,
+		"name": "Spider-Man 3",
+		"site_detail_url": "http://www.comicvine.com/spider-man-3/4025-54/",
+		"box_office_revenue": "336530303",
+		"budget": "258000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/77/869559-sm3_int_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/77/869559-sm3_int_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/77/869559-sm3_int_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/77/869559-sm3_int_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/77/869559-sm3_int_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/77/869559-sm3_int_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/77/869559-sm3_int_poster.jpg"
+		},
+		"rating": "3",
+		"runtime": "139",
+		"total_revenue": "890871626",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			}
+		]
+	},
+	"55": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-55/",
+		"id": 55,
+		"name": "Batman: The Movie",
+		"site_detail_url": "http://www.comicvine.com/batman-the-movie/4025-55/",
+		"box_office_revenue": null,
+		"budget": "1377800",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/871194-batman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/871194-batman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/871194-batman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/871194-batman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/871194-batman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/871194-batman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/871194-batman.jpg"
+		},
+		"rating": "2",
+		"runtime": "105",
+		"total_revenue": null,
+		"writers": null
+	},
+	"60": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-60/",
+		"id": 60,
+		"name": "Captain America",
+		"site_detail_url": "http://www.comicvine.com/captain-america/4025-60/",
+		"box_office_revenue": null,
+		"budget": "10000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37908/870651-captain_america_1_.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37908/870651-captain_america_1_.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37908/870651-captain_america_1_.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37908/870651-captain_america_1_.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37908/870651-captain_america_1_.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37908/870651-captain_america_1_.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37908/870651-captain_america_1_.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "97",
+		"total_revenue": null,
+		"writers": null
+	},
+	"82": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-82/",
+		"id": 82,
+		"name": "Batman: Mask of the Phantasm",
+		"site_detail_url": "http://www.comicvine.com/batman-mask-of-the-phantasm/4025-82/",
+		"box_office_revenue": "5617391",
+		"budget": "6000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/870817-phantasm.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/870817-phantasm.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/870817-phantasm.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/870817-phantasm.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/870817-phantasm.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/870817-phantasm.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/870817-phantasm.jpg"
+		},
+		"rating": "PG",
+		"runtime": "76",
+		"total_revenue": "5617391",
+		"writers": null
+	},
+	"85": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-85/",
+		"id": 85,
+		"name": "Wonder Woman",
+		"site_detail_url": "http://www.comicvine.com/wonder-woman/4025-85/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/870824-wwposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/870824-wwposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/870824-wwposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/870824-wwposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/870824-wwposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/870824-wwposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/870824-wwposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "74",
+		"total_revenue": null,
+		"writers": null
+	},
+	"86": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-86/",
+		"id": 86,
+		"name": "Justice League : The New Frontier",
+		"site_detail_url": "http://www.comicvine.com/justice-league-the-new-frontier/4025-86/",
+		"box_office_revenue": null,
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/870848-newfrontier2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/870848-newfrontier2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/870848-newfrontier2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/870848-newfrontier2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/870848-newfrontier2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/870848-newfrontier2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/870848-newfrontier2.jpg"
+		},
+		"rating": "3",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"103": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-103/",
+		"id": 103,
+		"name": "Doctor Strange: The Sorcerer Supreme",
+		"site_detail_url": "http://www.comicvine.com/doctor-strange-the-sorcerer-supreme/4025-103/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/117127/2901632-drstrange.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/117127/2901632-drstrange.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/117127/2901632-drstrange.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/117127/2901632-drstrange.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/117127/2901632-drstrange.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/117127/2901632-drstrange.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/117127/2901632-drstrange.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "76",
+		"total_revenue": null,
+		"writers": null
+	},
+	"125": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-125/",
+		"id": 125,
+		"name": "Batman: Gotham Knight",
+		"site_detail_url": "http://www.comicvine.com/batman-gotham-knight/4025-125/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/39349/870826-batman_gotham_knight.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/39349/870826-batman_gotham_knight.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/39349/870826-batman_gotham_knight.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/39349/870826-batman_gotham_knight.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/39349/870826-batman_gotham_knight.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/39349/870826-batman_gotham_knight.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/39349/870826-batman_gotham_knight.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"128": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-128/",
+		"id": 128,
+		"name": "Batman Beyond : Return of the Joker",
+		"site_detail_url": "http://www.comicvine.com/batman-beyond-return-of-the-joker/4025-128/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/871048-406px_bbrotj.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/871048-406px_bbrotj.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/871048-406px_bbrotj.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/871048-406px_bbrotj.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/871048-406px_bbrotj.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/871048-406px_bbrotj.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/871048-406px_bbrotj.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "77",
+		"total_revenue": null,
+		"writers": null
+	},
+	"129": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-129/",
+		"id": 129,
+		"name": "Superman: Doomsday",
+		"site_detail_url": "http://www.comicvine.com/superman-doomsday/4025-129/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/29015/871042-superman_doomsday_logo.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/29015/871042-superman_doomsday_logo.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/29015/871042-superman_doomsday_logo.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/29015/871042-superman_doomsday_logo.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/29015/871042-superman_doomsday_logo.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/29015/871042-superman_doomsday_logo.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/29015/871042-superman_doomsday_logo.jpg"
+		},
+		"rating": "3",
+		"runtime": "78",
+		"total_revenue": null,
+		"writers": null
+	},
+	"131": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-131/",
+		"id": 131,
+		"name": "Ultimate Avengers",
+		"site_detail_url": "http://www.comicvine.com/ultimate-avengers/4025-131/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/22664/871073-ultimateavengers.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/22664/871073-ultimateavengers.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/22664/871073-ultimateavengers.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/22664/871073-ultimateavengers.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/22664/871073-ultimateavengers.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/22664/871073-ultimateavengers.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/22664/871073-ultimateavengers.jpg"
+		},
+		"rating": "3",
+		"runtime": "72",
+		"total_revenue": null,
+		"writers": null
+	},
+	"135": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-135/",
+		"id": 135,
+		"name": "Nick Fury: Agent Of S.H.I.E.L.D.",
+		"site_detail_url": "http://www.comicvine.com/nick-fury-agent-of-shield/4025-135/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/59458/1125100-nickgi1in7.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/59458/1125100-nickgi1in7.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/59458/1125100-nickgi1in7.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/59458/1125100-nickgi1in7.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/59458/1125100-nickgi1in7.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/59458/1125100-nickgi1in7.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/59458/1125100-nickgi1in7.jpg"
+		},
+		"rating": null,
+		"runtime": "120",
+		"total_revenue": null,
+		"writers": null
+	},
+	"151": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-151/",
+		"id": 151,
+		"name": "Ultimate Avengers 2",
+		"site_detail_url": "http://www.comicvine.com/ultimate-avengers-2/4025-151/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/22664/871469-ua2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/22664/871469-ua2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/22664/871469-ua2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/22664/871469-ua2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/22664/871469-ua2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/22664/871469-ua2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/22664/871469-ua2.jpg"
+		},
+		"rating": "3",
+		"runtime": "74",
+		"total_revenue": null,
+		"writers": null
+	},
+	"157": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-157/",
+		"id": 157,
+		"name": "Batman & Mr. Freeze: SubZero",
+		"site_detail_url": "http://www.comicvine.com/batman-mr-freeze-subzero/4025-157/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38919/871726-batman_subzero.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38919/871726-batman_subzero.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38919/871726-batman_subzero.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38919/871726-batman_subzero.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38919/871726-batman_subzero.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38919/871726-batman_subzero.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38919/871726-batman_subzero.jpg"
+		},
+		"rating": "5",
+		"runtime": "67",
+		"total_revenue": null,
+		"writers": null
+	},
+	"162": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-162/",
+		"id": 162,
+		"name": "Batman: Mystery of the Batwoman",
+		"site_detail_url": "http://www.comicvine.com/batman-mystery-of-the-batwoman/4025-162/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38919/871850-mysterybatwoman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38919/871850-mysterybatwoman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38919/871850-mysterybatwoman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38919/871850-mysterybatwoman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38919/871850-mysterybatwoman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38919/871850-mysterybatwoman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38919/871850-mysterybatwoman.jpg"
+		},
+		"rating": "2",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"170": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-170/",
+		"id": 170,
+		"name": "Steel",
+		"site_detail_url": "http://www.comicvine.com/steel/4025-170/",
+		"box_office_revenue": "1710972",
+		"budget": "16000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/872149-steel.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/872149-steel.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/872149-steel.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/872149-steel.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/872149-steel.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/872149-steel.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/872149-steel.jpg"
+		},
+		"rating": "3",
+		"runtime": "97",
+		"total_revenue": null,
+		"writers": null
+	},
+	"171": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-171/",
+		"id": 171,
+		"name": "SuperGirl",
+		"site_detail_url": "http://www.comicvine.com/supergirl/4025-171/",
+		"box_office_revenue": "14296438",
+		"budget": "35000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/872187-supergirl.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/872187-supergirl.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/872187-supergirl.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/872187-supergirl.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/872187-supergirl.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/872187-supergirl.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/872187-supergirl.jpg"
+		},
+		"rating": "2",
+		"runtime": "124",
+		"total_revenue": null,
+		"writers": null
+	},
+	"177": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-177/",
+		"id": 177,
+		"name": "Teen Titans: Trouble in Tokyo",
+		"site_detail_url": "http://www.comicvine.com/teen-titans-trouble-in-tokyo/4025-177/",
+		"box_office_revenue": null,
+		"budget": "5000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/872019-trouble_in_tokyo.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/872019-trouble_in_tokyo.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/872019-trouble_in_tokyo.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/872019-trouble_in_tokyo.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/872019-trouble_in_tokyo.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/872019-trouble_in_tokyo.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/872019-trouble_in_tokyo.jpg"
+		},
+		"rating": "5",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"179": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-179/",
+		"id": 179,
+		"name": "Congo Bill",
+		"site_detail_url": "http://www.comicvine.com/congo-bill/4025-179/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/42/872040-202795.1020.a.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/42/872040-202795.1020.a.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/42/872040-202795.1020.a.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/42/872040-202795.1020.a.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/42/872040-202795.1020.a.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/42/872040-202795.1020.a.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/42/872040-202795.1020.a.jpg"
+		},
+		"rating": "5",
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"186": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-186/",
+		"id": 186,
+		"name": "Hulk vs. Wolverine",
+		"site_detail_url": "http://www.comicvine.com/hulk-vs-wolverine/4025-186/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/18921/874045-hulk_vs_2009_.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/18921/874045-hulk_vs_2009_.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/18921/874045-hulk_vs_2009_.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/18921/874045-hulk_vs_2009_.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/18921/874045-hulk_vs_2009_.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/18921/874045-hulk_vs_2009_.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/18921/874045-hulk_vs_2009_.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "37",
+		"total_revenue": null,
+		"writers": null
+	},
+	"187": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-187/",
+		"id": 187,
+		"name": "Hulk vs. Thor",
+		"site_detail_url": "http://www.comicvine.com/hulk-vs-thor/4025-187/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/874283-hulk_vs.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/874283-hulk_vs.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/874283-hulk_vs.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/874283-hulk_vs.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/874283-hulk_vs.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/874283-hulk_vs.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/874283-hulk_vs.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "78",
+		"total_revenue": null,
+		"writers": null
+	},
+	"199": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-199/",
+		"id": 199,
+		"name": "The Batman",
+		"site_detail_url": "http://www.comicvine.com/the-batman/4025-199/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/872573-377px_batman__1943_serial__poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/872573-377px_batman__1943_serial__poster.jpg"
+		},
+		"rating": "5",
+		"runtime": "260",
+		"total_revenue": null,
+		"writers": null
+	},
+	"222": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-222/",
+		"id": 222,
+		"name": "Batman and Robin",
+		"site_detail_url": "http://www.comicvine.com/batman-and-robin/4025-222/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64770/1194847-new_adventures_batman_and_robin_1949.jpg"
+		},
+		"rating": "5",
+		"runtime": "263",
+		"total_revenue": null,
+		"writers": null
+	},
+	"232": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-232/",
+		"id": 232,
+		"name": "The Invincible Iron Man",
+		"site_detail_url": "http://www.comicvine.com/the-invincible-iron-man/4025-232/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38919/872811-invincible_iron_man.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38919/872811-invincible_iron_man.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38919/872811-invincible_iron_man.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38919/872811-invincible_iron_man.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38919/872811-invincible_iron_man.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38919/872811-invincible_iron_man.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38919/872811-invincible_iron_man.jpg"
+		},
+		"rating": "3",
+		"runtime": "83",
+		"total_revenue": null,
+		"writers": null
+	},
+	"241": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-241/",
+		"id": 241,
+		"name": "Atom Man Vs. Superman",
+		"site_detail_url": "http://www.comicvine.com/atom-man-vs-superman/4025-241/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/872898-superman_vs_atom_man.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/872898-superman_vs_atom_man.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/872898-superman_vs_atom_man.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/872898-superman_vs_atom_man.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/872898-superman_vs_atom_man.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/872898-superman_vs_atom_man.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/872898-superman_vs_atom_man.jpg"
+		},
+		"rating": "5",
+		"runtime": "252",
+		"total_revenue": null,
+		"writers": null
+	},
+	"247": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-247/",
+		"id": 247,
+		"name": "Dr. Strange",
+		"site_detail_url": "http://www.comicvine.com/dr-strange/4025-247/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34588/873257-drstrangemovie.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34588/873257-drstrangemovie.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34588/873257-drstrangemovie.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34588/873257-drstrangemovie.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34588/873257-drstrangemovie.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34588/873257-drstrangemovie.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34588/873257-drstrangemovie.jpg"
+		},
+		"rating": "5",
+		"runtime": "93",
+		"total_revenue": null,
+		"writers": null
+	},
+	"248": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-248/",
+		"id": 248,
+		"name": "Generation X",
+		"site_detail_url": "http://www.comicvine.com/generation-x/4025-248/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/33804/873045-genx.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/33804/873045-genx.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/33804/873045-genx.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/33804/873045-genx.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/33804/873045-genx.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/33804/873045-genx.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/33804/873045-genx.jpg"
+		},
+		"rating": "3",
+		"runtime": "87",
+		"total_revenue": null,
+		"writers": null
+	},
+	"254": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-254/",
+		"id": 254,
+		"name": "The Batman vs. Dracula",
+		"site_detail_url": "http://www.comicvine.com/the-batman-vs-dracula/4025-254/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2053899-batmandracula2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2053899-batmandracula2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2053899-batmandracula2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2053899-batmandracula2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2053899-batmandracula2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2053899-batmandracula2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2053899-batmandracula2.jpg"
+		},
+		"rating": "2",
+		"runtime": "83",
+		"total_revenue": null,
+		"writers": null
+	},
+	"287": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-287/",
+		"id": 287,
+		"name": "Captain America II Death Too Soon",
+		"site_detail_url": "http://www.comicvine.com/captain-america-ii-death-too-soon/4025-287/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34616/874115-captain_america_2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34616/874115-captain_america_2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34616/874115-captain_america_2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34616/874115-captain_america_2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34616/874115-captain_america_2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34616/874115-captain_america_2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34616/874115-captain_america_2.jpg"
+		},
+		"rating": "5",
+		"runtime": "120",
+		"total_revenue": null,
+		"writers": null
+	},
+	"289": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-289/",
+		"id": 289,
+		"name": "Captain America",
+		"site_detail_url": "http://www.comicvine.com/captain-america/4025-289/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/34616/874152-captain_america.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/34616/874152-captain_america.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/34616/874152-captain_america.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/34616/874152-captain_america.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/34616/874152-captain_america.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/34616/874152-captain_america.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/34616/874152-captain_america.jpg"
+		},
+		"rating": "5",
+		"runtime": "120",
+		"total_revenue": null,
+		"writers": null
+	},
+	"331": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-331/",
+		"id": 331,
+		"name": "The Incredible Hulk Returns",
+		"site_detail_url": "http://www.comicvine.com/the-incredible-hulk-returns/4025-331/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/33804/875454-affiche.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/33804/875454-affiche.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/33804/875454-affiche.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/33804/875454-affiche.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/33804/875454-affiche.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/33804/875454-affiche.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/33804/875454-affiche.jpg"
+		},
+		"rating": "5",
+		"runtime": "100",
+		"total_revenue": null,
+		"writers": null
+	},
+	"332": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-332/",
+		"id": 332,
+		"name": "The Trial of the Incredible Hulk",
+		"site_detail_url": "http://www.comicvine.com/the-trial-of-the-incredible-hulk/4025-332/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/33804/875463-affiche_1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/33804/875463-affiche_1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/33804/875463-affiche_1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/33804/875463-affiche_1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/33804/875463-affiche_1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/33804/875463-affiche_1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/33804/875463-affiche_1.jpg"
+		},
+		"rating": "5",
+		"runtime": "97",
+		"total_revenue": null,
+		"writers": null
+	},
+	"335": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-335/",
+		"id": 335,
+		"name": "Jay and Silent Bob Strike Back",
+		"site_detail_url": "http://www.comicvine.com/jay-and-silent-bob-strike-back/4025-335/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/879363-silentbob.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/879363-silentbob.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/879363-silentbob.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/879363-silentbob.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/879363-silentbob.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/879363-silentbob.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/879363-silentbob.jpg"
+		},
+		"rating": "4",
+		"runtime": "105",
+		"total_revenue": null,
+		"writers": null
+	},
+	"339": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-339/",
+		"id": 339,
+		"name": "The Batman/Superman Movie",
+		"site_detail_url": "http://www.comicvine.com/the-batmansuperman-movie/4025-339/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/880431-batman_superman.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/880431-batman_superman.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/880431-batman_superman.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/880431-batman_superman.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/880431-batman_superman.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/880431-batman_superman.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/880431-batman_superman.png"
+		},
+		"rating": "2",
+		"runtime": "64",
+		"total_revenue": null,
+		"writers": null
+	},
+	"369": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-369/",
+		"id": 369,
+		"name": "Blade: House of Chthon",
+		"site_detail_url": "http://www.comicvine.com/blade-house-of-chthon/4025-369/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15317/887355-bladehouseofchthon.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15317/887355-bladehouseofchthon.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15317/887355-bladehouseofchthon.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15317/887355-bladehouseofchthon.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15317/887355-bladehouseofchthon.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15317/887355-bladehouseofchthon.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15317/887355-bladehouseofchthon.jpg"
+		},
+		"rating": "5",
+		"runtime": "86",
+		"total_revenue": null,
+		"writers": null
+	},
+	"399": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-399/",
+		"id": 399,
+		"name": "Green Lantern First Flight",
+		"site_detail_url": "http://www.comicvine.com/green-lantern-first-flight/4025-399/",
+		"box_office_revenue": "5972031",
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15317/889907-firstflight01.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15317/889907-firstflight01.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15317/889907-firstflight01.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15317/889907-firstflight01.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15317/889907-firstflight01.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15317/889907-firstflight01.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15317/889907-firstflight01.jpg"
+		},
+		"rating": "3",
+		"runtime": "77",
+		"total_revenue": "5972031",
+		"writers": null
+	},
+	"401": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-401/",
+		"id": 401,
+		"name": "Batman Beyond The Movie",
+		"site_detail_url": "http://www.comicvine.com/batman-beyond-the-movie/4025-401/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15317/889920-batmanbeyond.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15317/889920-batmanbeyond.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15317/889920-batmanbeyond.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15317/889920-batmanbeyond.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15317/889920-batmanbeyond.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15317/889920-batmanbeyond.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15317/889920-batmanbeyond.jpg"
+		},
+		"rating": "3",
+		"runtime": "132",
+		"total_revenue": null,
+		"writers": null
+	},
+	"527": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-527/",
+		"id": 527,
+		"name": "Next Avengers Heroes of Tomorrow",
+		"site_detail_url": "http://www.comicvine.com/next-avengers-heroes-of-tomorrow/4025-527/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15317/907811-next_avengers_heroes_of_tomorrow.jpg"
+		},
+		"rating": "2",
+		"runtime": "78",
+		"total_revenue": null,
+		"writers": null
+	},
+	"533": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-533/",
+		"id": 533,
+		"name": "Justice League of America",
+		"site_detail_url": "http://www.comicvine.com/justice-league-of-america/4025-533/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/16529/909874-justice.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/16529/909874-justice.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/16529/909874-justice.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/16529/909874-justice.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/16529/909874-justice.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/16529/909874-justice.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/16529/909874-justice.jpg"
+		},
+		"rating": null,
+		"runtime": "86",
+		"total_revenue": null,
+		"writers": null
+	},
+	"633": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-633/",
+		"id": 633,
+		"name": "Fantastic Four",
+		"site_detail_url": "http://www.comicvine.com/fantastic-four/4025-633/",
+		"box_office_revenue": null,
+		"budget": "1500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15776/925096-ffmovie.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15776/925096-ffmovie.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15776/925096-ffmovie.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15776/925096-ffmovie.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15776/925096-ffmovie.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15776/925096-ffmovie.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15776/925096-ffmovie.jpg"
+		},
+		"rating": "5",
+		"runtime": "90",
+		"total_revenue": null,
+		"writers": null
+	},
+	"638": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-638/",
+		"id": 638,
+		"name": "Superman and the Mole Men",
+		"site_detail_url": "http://www.comicvine.com/superman-and-the-mole-men/4025-638/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/924874-superman1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/924874-superman1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/924874-superman1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/924874-superman1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/924874-superman1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/924874-superman1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/924874-superman1.jpg"
+		},
+		"rating": null,
+		"runtime": "58",
+		"total_revenue": null,
+		"writers": null
+	},
+	"640": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-640/",
+		"id": 640,
+		"name": "Aquaman",
+		"site_detail_url": "http://www.comicvine.com/aquaman/4025-640/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/924916-aquaman1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/924916-aquaman1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/924916-aquaman1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/924916-aquaman1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/924916-aquaman1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/924916-aquaman1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/924916-aquaman1.jpg"
+		},
+		"rating": null,
+		"runtime": "42",
+		"total_revenue": null,
+		"writers": null
+	},
+	"657": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-657/",
+		"id": 657,
+		"name": "The Flash II: Revenge of the Trickster",
+		"site_detail_url": "http://www.comicvine.com/the-flash-ii-revenge-of-the-trickster/4025-657/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/16529/937519-flash2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/16529/937519-flash2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/16529/937519-flash2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/16529/937519-flash2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/16529/937519-flash2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/16529/937519-flash2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/16529/937519-flash2.jpg"
+		},
+		"rating": "5",
+		"runtime": "88",
+		"total_revenue": null,
+		"writers": null
+	},
+	"658": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-658/",
+		"id": 658,
+		"name": "The Flash III: Deadly Nightshade",
+		"site_detail_url": "http://www.comicvine.com/the-flash-iii-deadly-nightshade/4025-658/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/16529/937547-flash3.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/16529/937547-flash3.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/16529/937547-flash3.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/16529/937547-flash3.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/16529/937547-flash3.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/16529/937547-flash3.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/16529/937547-flash3.jpg"
+		},
+		"rating": null,
+		"runtime": "90",
+		"total_revenue": null,
+		"writers": null
+	},
+	"659": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-659/",
+		"id": 659,
+		"name": "The Flash",
+		"site_detail_url": "http://www.comicvine.com/the-flash/4025-659/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/16529/937564-the_flash.jpeg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/16529/937564-the_flash.jpeg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/16529/937564-the_flash.jpeg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/16529/937564-the_flash.jpeg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/16529/937564-the_flash.jpeg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/16529/937564-the_flash.jpeg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/16529/937564-the_flash.jpeg"
+		},
+		"rating": null,
+		"runtime": "94",
+		"total_revenue": null,
+		"writers": null
+	},
+	"662": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-662/",
+		"id": 662,
+		"name": "Daredevil VS Spider-Man",
+		"site_detail_url": "http://www.comicvine.com/daredevil-vs-spider-man/4025-662/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15317/943028-daredevil_spider_manb00007g205.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15317/943028-daredevil_spider_manb00007g205.jpg"
+		},
+		"rating": "NR",
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"666": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-666/",
+		"id": 666,
+		"name": "Superman/Batman: Public Enemies",
+		"site_detail_url": "http://www.comicvine.com/supermanbatman-public-enemies/4025-666/",
+		"box_office_revenue": "$7,962,636",
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/959711-displaymamextview.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/959711-displaymamextview.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/959711-displaymamextview.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/959711-displaymamextview.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/959711-displaymamextview.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/959711-displaymamextview.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/959711-displaymamextview.jpg"
+		},
+		"rating": "3",
+		"runtime": "67",
+		"total_revenue": null,
+		"writers": null
+	},
+	"694": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-694/",
+		"id": 694,
+		"name": "Planet Hulk",
+		"site_detail_url": "http://www.comicvine.com/planet-hulk/4025-694/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/990972-hulkx_wide_community.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/990972-hulkx_wide_community.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/990972-hulkx_wide_community.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/990972-hulkx_wide_community.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/990972-hulkx_wide_community.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/990972-hulkx_wide_community.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/990972-hulkx_wide_community.jpg"
+		},
+		"rating": "3",
+		"runtime": "81",
+		"total_revenue": null,
+		"writers": null
+	},
+	"695": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-695/",
+		"id": 695,
+		"name": "Spider-Man Blade the Vampire Hunter",
+		"site_detail_url": "http://www.comicvine.com/spider-man-blade-the-vampire-hunter/4025-695/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/15776/995530-ss500.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/15776/995530-ss500.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/15776/995530-ss500.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/15776/995530-ss500.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/15776/995530-ss500.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/15776/995530-ss500.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/15776/995530-ss500.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"702": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-702/",
+		"id": 702,
+		"name": "The Death of The Incredible Hulk",
+		"site_detail_url": "http://www.comicvine.com/the-death-of-the-incredible-hulk/4025-702/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52052/988841-death_of_the_incredible_hulk.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52052/988841-death_of_the_incredible_hulk.jpg"
+		},
+		"rating": "3",
+		"runtime": "95",
+		"total_revenue": null,
+		"writers": null
+	},
+	"733": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-733/",
+		"id": 733,
+		"name": "Iron Man 2",
+		"site_detail_url": "http://www.comicvine.com/iron-man-2/4025-733/",
+		"box_office_revenue": "312433331",
+		"budget": "200000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52052/1178087-4489826034_b18d678852.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52052/1178087-4489826034_b18d678852.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52052/1178087-4489826034_b18d678852.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52052/1178087-4489826034_b18d678852.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52052/1178087-4489826034_b18d678852.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52052/1178087-4489826034_b18d678852.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52052/1178087-4489826034_b18d678852.jpg"
+		},
+		"rating": "3",
+		"runtime": "117",
+		"total_revenue": "622056974",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-4068/",
+				"id": 4068,
+				"name": "Larry Lieber",
+				"site_detail_url": "http://www.comicvine.com/larry-lieber/4040-4068/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-6609/",
+				"id": 6609,
+				"name": "Don Heck",
+				"site_detail_url": "http://www.comicvine.com/don-heck/4040-6609/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			}
+		]
+	},
+	"742": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-742/",
+		"id": 742,
+		"name": "Fight Batman Fight!",
+		"site_detail_url": "http://www.comicvine.com/fight-batman-fight/4025-742/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/27783/1058893-fight_batman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/27783/1058893-fight_batman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/27783/1058893-fight_batman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/27783/1058893-fight_batman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/27783/1058893-fight_batman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/27783/1058893-fight_batman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/27783/1058893-fight_batman.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"757": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-757/",
+		"id": 757,
+		"name": "Justice League Crisis on Two Earths",
+		"site_detail_url": "http://www.comicvine.com/justice-league-crisis-on-two-earths/4025-757/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/59458/1124438-justiceleagueposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/59458/1124438-justiceleagueposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/59458/1124438-justiceleagueposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/59458/1124438-justiceleagueposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/59458/1124438-justiceleagueposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/59458/1124438-justiceleagueposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/59458/1124438-justiceleagueposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"777": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-777/",
+		"id": 777,
+		"name": "Batman Dracula",
+		"site_detail_url": "http://www.comicvine.com/batman-dracula/4025-777/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1075020-batman_dracula1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1075020-batman_dracula1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1075020-batman_dracula1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1075020-batman_dracula1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1075020-batman_dracula1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1075020-batman_dracula1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1075020-batman_dracula1.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"806": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-806/",
+		"id": 806,
+		"name": "Captain America",
+		"site_detail_url": "http://www.comicvine.com/captain-america/4025-806/",
+		"box_office_revenue": null,
+		"budget": "222906",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1098662-captain_america1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1098662-captain_america1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1098662-captain_america1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1098662-captain_america1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1098662-captain_america1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1098662-captain_america1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1098662-captain_america1.jpg"
+		},
+		"rating": null,
+		"runtime": "243",
+		"total_revenue": null,
+		"writers": null
+	},
+	"807": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-807/",
+		"id": 807,
+		"name": "The Greatest Fan Film of All Time",
+		"site_detail_url": "http://www.comicvine.com/the-greatest-fan-film-of-all-time/4025-807/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1098764-greatest1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1098764-greatest1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1098764-greatest1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1098764-greatest1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1098764-greatest1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1098764-greatest1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1098764-greatest1.jpg"
+		},
+		"rating": "3",
+		"runtime": "45",
+		"total_revenue": null,
+		"writers": null
+	},
+	"808": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-808/",
+		"id": 808,
+		"name": "Marvel Zombies: The Movie",
+		"site_detail_url": "http://www.comicvine.com/marvel-zombies-the-movie/4025-808/",
+		"box_office_revenue": null,
+		"budget": "1200",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1099097-zombies.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1099097-zombies.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1099097-zombies.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1099097-zombies.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1099097-zombies.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1099097-zombies.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1099097-zombies.jpg"
+		},
+		"rating": null,
+		"runtime": "2",
+		"total_revenue": null,
+		"writers": null
+	},
+	"828": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-828/",
+		"id": 828,
+		"name": "Spider Man: The Dragon's Challenge",
+		"site_detail_url": "http://www.comicvine.com/spider-man-the-dragons-challenge/4025-828/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105755-spider_man1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105755-spider_man1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105755-spider_man1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105755-spider_man1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105755-spider_man1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105755-spider_man1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105755-spider_man1.jpg"
+		},
+		"rating": null,
+		"runtime": "92",
+		"total_revenue": null,
+		"writers": null
+	},
+	"829": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-829/",
+		"id": 829,
+		"name": "Spider-Man Strikes Back",
+		"site_detail_url": "http://www.comicvine.com/spider-man-strikes-back/4025-829/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105769-spider_man2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105769-spider_man2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105769-spider_man2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105769-spider_man2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105769-spider_man2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105769-spider_man2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105769-spider_man2.jpg"
+		},
+		"rating": null,
+		"runtime": "90",
+		"total_revenue": null,
+		"writers": null
+	},
+	"831": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-831/",
+		"id": 831,
+		"name": "The Amazing Spider-Man",
+		"site_detail_url": "http://www.comicvine.com/the-amazing-spider-man/4025-831/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105807-spider_man3.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105807-spider_man3.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105807-spider_man3.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105807-spider_man3.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105807-spider_man3.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105807-spider_man3.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105807-spider_man3.jpg"
+		},
+		"rating": null,
+		"runtime": "92",
+		"total_revenue": null,
+		"writers": null
+	},
+	"834": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-834/",
+		"id": 834,
+		"name": "Three Mighty Men",
+		"site_detail_url": "http://www.comicvine.com/three-mighty-men/4025-834/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105877-adam1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105877-adam1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105877-adam1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105877-adam1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105877-adam1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105877-adam1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105877-adam1.jpg"
+		},
+		"rating": null,
+		"runtime": "81",
+		"total_revenue": null,
+		"writers": null
+	},
+	"835": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-835/",
+		"id": 835,
+		"name": "Major Tayfun",
+		"site_detail_url": "http://www.comicvine.com/major-tayfun/4025-835/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105903-major_tayfun1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105903-major_tayfun1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105903-major_tayfun1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105903-major_tayfun1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105903-major_tayfun1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105903-major_tayfun1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105903-major_tayfun1.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"836": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-836/",
+		"id": 836,
+		"name": "Spider-Man",
+		"site_detail_url": "http://www.comicvine.com/spider-man/4025-836/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105919-spider_man5.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105919-spider_man5.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105919-spider_man5.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105919-spider_man5.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105919-spider_man5.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105919-spider_man5.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105919-spider_man5.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"838": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-838/",
+		"id": 838,
+		"name": "Pryde of the X-Men",
+		"site_detail_url": "http://www.comicvine.com/pryde-of-the-x-men/4025-838/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/37015/1105969-pryde1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/37015/1105969-pryde1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/37015/1105969-pryde1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/37015/1105969-pryde1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/37015/1105969-pryde1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/37015/1105969-pryde1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/37015/1105969-pryde1.jpg"
+		},
+		"rating": "1",
+		"runtime": "30",
+		"total_revenue": null,
+		"writers": null
+	},
+	"916": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-916/",
+		"id": 916,
+		"name": "Batman: Under The Red Hood",
+		"site_detail_url": "http://www.comicvine.com/batman-under-the-red-hood/4025-916/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/1296306-underthehood.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/1296306-underthehood.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/1296306-underthehood.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/1296306-underthehood.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/1296306-underthehood.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/1296306-underthehood.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/1296306-underthehood.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "75",
+		"total_revenue": "6583407",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-10383/",
+				"id": 10383,
+				"name": "Judd Winick",
+				"site_detail_url": "http://www.comicvine.com/judd-winick/4040-10383/"
+			}
+		]
+	},
+	"917": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-917/",
+		"id": 917,
+		"name": "Batman: Dead End",
+		"site_detail_url": "http://www.comicvine.com/batman-dead-end/4025-917/",
+		"box_office_revenue": null,
+		"budget": "30000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38826/1146551-0abatman.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38826/1146551-0abatman.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38826/1146551-0abatman.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38826/1146551-0abatman.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38826/1146551-0abatman.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38826/1146551-0abatman.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38826/1146551-0abatman.jpg"
+		},
+		"rating": "5",
+		"runtime": "8",
+		"total_revenue": null,
+		"writers": null
+	},
+	"926": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-926/",
+		"id": 926,
+		"name": "Green Lantern",
+		"site_detail_url": "http://www.comicvine.com/green-lantern/4025-926/",
+		"box_office_revenue": null,
+		"budget": "150000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64770/1790299-580_greenlantern_finalposter.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64770/1790299-580_greenlantern_finalposter.jpg"
+		},
+		"rating": "3",
+		"runtime": "105",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-42339/",
+				"id": 42339,
+				"name": "Marc Guggenheim",
+				"site_detail_url": "http://www.comicvine.com/marc-guggenheim/4040-42339/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-45823/",
+				"id": 45823,
+				"name": "Michael Green",
+				"site_detail_url": "http://www.comicvine.com/michael-green/4040-45823/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-61807/",
+				"id": 61807,
+				"name": "Greg Berlanti",
+				"site_detail_url": "http://www.comicvine.com/greg-berlanti/4040-61807/"
+			}
+		]
+	},
+	"927": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-927/",
+		"id": 927,
+		"name": "Captain America: The First Avenger",
+		"site_detail_url": "http://www.comicvine.com/captain-america-the-first-avenger/4025-927/",
+		"box_office_revenue": "199265935",
+		"budget": "140000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2353939-the_first_avenger.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2353939-the_first_avenger.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2353939-the_first_avenger.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2353939-the_first_avenger.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2353939-the_first_avenger.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2353939-the_first_avenger.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2353939-the_first_avenger.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "124",
+		"total_revenue": "368608363",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-9443/",
+				"id": 9443,
+				"name": "Joe Simon",
+				"site_detail_url": "http://www.comicvine.com/joe-simon/4040-9443/"
+			}
+		]
+	},
+	"936": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-936/",
+		"id": 936,
+		"name": "The Avengers",
+		"site_detail_url": "http://www.comicvine.com/the-avengers/4025-936/",
+		"box_office_revenue": "1400983182",
+		"budget": "220000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/9/99801/2221762-avengersposter2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/9/99801/2221762-avengersposter2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/9/99801/2221762-avengersposter2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/9/99801/2221762-avengersposter2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/9/99801/2221762-avengersposter2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/9/99801/2221762-avengersposter2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/9/99801/2221762-avengersposter2.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "143",
+		"total_revenue": "1064029000",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40956/",
+				"id": 40956,
+				"name": "Joss Whedon",
+				"site_detail_url": "http://www.comicvine.com/joss-whedon/4040-40956/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-65489/",
+				"id": 65489,
+				"name": "Zak Penn",
+				"site_detail_url": "http://www.comicvine.com/zak-penn/4040-65489/"
+			}
+		]
+	},
+	"948": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-948/",
+		"id": 948,
+		"name": "Son of the Mask",
+		"site_detail_url": "http://www.comicvine.com/son-of-the-mask/4025-948/",
+		"box_office_revenue": "57552641",
+		"budget": "84000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/4/47357/1208271-son_of_the_mask.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/4/47357/1208271-son_of_the_mask.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/4/47357/1208271-son_of_the_mask.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/4/47357/1208271-son_of_the_mask.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/4/47357/1208271-son_of_the_mask.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/4/47357/1208271-son_of_the_mask.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/4/47357/1208271-son_of_the_mask.jpg"
+		},
+		"rating": "2",
+		"runtime": "94",
+		"total_revenue": null,
+		"writers": null
+	},
+	"949": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-949/",
+		"id": 949,
+		"name": "Thor",
+		"site_detail_url": "http://www.comicvine.com/thor/4025-949/",
+		"box_office_revenue": "181030624",
+		"budget": "150000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52462/1778198-thorposter1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52462/1778198-thorposter1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52462/1778198-thorposter1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52462/1778198-thorposter1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52462/1778198-thorposter1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52462/1778198-thorposter1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52462/1778198-thorposter1.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "114",
+		"total_revenue": "449326618",
+		"writers": null
+	},
+	"982": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-982/",
+		"id": 982,
+		"name": "Superman/Batman: Apocalypse",
+		"site_detail_url": "http://www.comicvine.com/supermanbatman-apocalypse/4025-982/",
+		"box_office_revenue": null,
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/1/18154/1493369-sbapocalypse.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/1/18154/1493369-sbapocalypse.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/1/18154/1493369-sbapocalypse.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/1/18154/1493369-sbapocalypse.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/1/18154/1493369-sbapocalypse.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/1/18154/1493369-sbapocalypse.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/1/18154/1493369-sbapocalypse.jpg"
+		},
+		"rating": "3",
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1048": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1048/",
+		"id": 1048,
+		"name": "X-Men: First Class",
+		"site_detail_url": "http://www.comicvine.com/x-men-first-class/4025-1048/",
+		"box_office_revenue": "352616690",
+		"budget": "120000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/1778917-50723.jpeg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/1778917-50723.jpeg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/1778917-50723.jpeg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/1778917-50723.jpeg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/1778917-50723.jpeg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/1778917-50723.jpeg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/1778917-50723.jpeg"
+		},
+		"rating": "3",
+		"runtime": "140",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-64499/",
+				"id": 64499,
+				"name": "Bryan Singer",
+				"site_detail_url": "http://www.comicvine.com/bryan-singer/4040-64499/"
+			}
+		]
+	},
+	"1060": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1060/",
+		"id": 1060,
+		"name": "Scooby-Doo Meets Batman",
+		"site_detail_url": "http://www.comicvine.com/scooby-doo-meets-batman/4025-1060/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64684/1319068-sdmb.gif",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64684/1319068-sdmb.gif",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64684/1319068-sdmb.gif",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64684/1319068-sdmb.gif",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64684/1319068-sdmb.gif",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64684/1319068-sdmb.gif",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64684/1319068-sdmb.gif"
+		},
+		"rating": null,
+		"runtime": "82",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1082": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1082/",
+		"id": 1082,
+		"name": "Superman/Shazam: The Return of Black Adam",
+		"site_detail_url": "http://www.comicvine.com/supermanshazam-the-return-of-black-adam/4025-1082/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/65423/1331566-ssroba.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/65423/1331566-ssroba.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/65423/1331566-ssroba.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/65423/1331566-ssroba.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/65423/1331566-ssroba.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/65423/1331566-ssroba.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/65423/1331566-ssroba.jpg"
+		},
+		"rating": "3",
+		"runtime": "22",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1139": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1139/",
+		"id": 1139,
+		"name": "DC Showcase Green Arrow",
+		"site_detail_url": "http://www.comicvine.com/dc-showcase-green-arrow/4025-1139/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/4/40498/1416339-dcga.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/4/40498/1416339-dcga.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/4/40498/1416339-dcga.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/4/40498/1416339-dcga.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/4/40498/1416339-dcga.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/4/40498/1416339-dcga.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/4/40498/1416339-dcga.jpg"
+		},
+		"rating": "3",
+		"runtime": "12",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1143": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1143/",
+		"id": 1143,
+		"name": "Superman",
+		"site_detail_url": "http://www.comicvine.com/superman/4025-1143/",
+		"box_office_revenue": null,
+		"budget": "50000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52074/1493885-superman_dvd.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52074/1493885-superman_dvd.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52074/1493885-superman_dvd.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52074/1493885-superman_dvd.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52074/1493885-superman_dvd.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52074/1493885-superman_dvd.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52074/1493885-superman_dvd.jpg"
+		},
+		"rating": "5",
+		"runtime": "10",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1149": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1149/",
+		"id": 1149,
+		"name": "Supergirl",
+		"site_detail_url": "http://www.comicvine.com/supergirl/4025-1149/",
+		"box_office_revenue": null,
+		"budget": "500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/2/27783/1457216-supergirl_phil.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/2/27783/1457216-supergirl_phil.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/2/27783/1457216-supergirl_phil.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/2/27783/1457216-supergirl_phil.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/2/27783/1457216-supergirl_phil.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/2/27783/1457216-supergirl_phil.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/2/27783/1457216-supergirl_phil.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1152": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1152/",
+		"id": 1152,
+		"name": "Spider-Man: The Ultimate Villain Showdown",
+		"site_detail_url": "http://www.comicvine.com/spider-man-the-ultimate-villain-showdown/4025-1152/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64684/1470384-spider_man_ultimatevillain.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64684/1470384-spider_man_ultimatevillain.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1153": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1153/",
+		"id": 1153,
+		"name": "Spider-Man: The Return of the Green Goblin",
+		"site_detail_url": "http://www.comicvine.com/spider-man-the-return-of-the-green-goblin/4025-1153/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64684/1470391-spiderman_goblin.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64684/1470391-spiderman_goblin.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64684/1470391-spiderman_goblin.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64684/1470391-spiderman_goblin.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64684/1470391-spiderman_goblin.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64684/1470391-spiderman_goblin.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64684/1470391-spiderman_goblin.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1154": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1154/",
+		"id": 1154,
+		"name": "Spider-Man vs. Doc Ock",
+		"site_detail_url": "http://www.comicvine.com/spider-man-vs-doc-ock/4025-1154/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64684/1470395-spidy_ock.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64684/1470395-spidy_ock.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64684/1470395-spidy_ock.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64684/1470395-spidy_ock.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64684/1470395-spidy_ock.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64684/1470395-spidy_ock.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64684/1470395-spidy_ock.jpg"
+		},
+		"rating": "5",
+		"runtime": "79",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1155": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1155/",
+		"id": 1155,
+		"name": "Spider-Man: The Venom Saga",
+		"site_detail_url": "http://www.comicvine.com/spider-man-the-venom-saga/4025-1155/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64684/1470397-spider_man_venom_saga_dvd.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64684/1470397-spider_man_venom_saga_dvd.jpg"
+		},
+		"rating": "5",
+		"runtime": "95",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1158": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1158/",
+		"id": 1158,
+		"name": "All Star Superman",
+		"site_detail_url": "http://www.comicvine.com/all-star-superman/4025-1158/",
+		"box_office_revenue": "2010100",
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/65423/1571476-allstarsupermanbr.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/65423/1571476-allstarsupermanbr.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/65423/1571476-allstarsupermanbr.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/65423/1571476-allstarsupermanbr.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/65423/1571476-allstarsupermanbr.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/65423/1571476-allstarsupermanbr.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/65423/1571476-allstarsupermanbr.jpg"
+		},
+		"rating": "PG",
+		"runtime": "75",
+		"total_revenue": "2010100",
+		"writers": null
+	},
+	"1213": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1213/",
+		"id": 1213,
+		"name": "The Amazing Spider-Man",
+		"site_detail_url": "http://www.comicvine.com/the-amazing-spider-man/4025-1213/",
+		"box_office_revenue": "735111206",
+		"budget": "230000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62058/2320796-asm_dom_in3d_reald3d_imax3d_1sheet_720.jpg"
+		},
+		"rating": "3",
+		"runtime": "136",
+		"total_revenue": "505111206",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-4026/",
+				"id": 4026,
+				"name": "Steve Ditko",
+				"site_detail_url": "http://www.comicvine.com/steve-ditko/4040-4026/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			}
+		]
+	},
+	"1214": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1214/",
+		"id": 1214,
+		"name": "The Dark Knight Rises",
+		"site_detail_url": "http://www.comicvine.com/the-dark-knight-rises/4025-1214/",
+		"box_office_revenue": null,
+		"budget": "250000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2363590-rises.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2363590-rises.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2363590-rises.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2363590-rises.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2363590-rises.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2363590-rises.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2363590-rises.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "165",
+		"total_revenue": "1013114000",
+		"writers": null
+	},
+	"1228": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1228/",
+		"id": 1228,
+		"name": "Superman: Brainiac Attacks",
+		"site_detail_url": "http://www.comicvine.com/superman-brainiac-attacks/4025-1228/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/89742/1654613-wah2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/89742/1654613-wah2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/89742/1654613-wah2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/89742/1654613-wah2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/89742/1654613-wah2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/89742/1654613-wah2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/89742/1654613-wah2.jpg"
+		},
+		"rating": null,
+		"runtime": "76",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1242": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1242/",
+		"id": 1242,
+		"name": "Thor: Tales of Asgard",
+		"site_detail_url": "http://www.comicvine.com/thor-tales-of-asgard/4025-1242/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/83882/1982034-thortalesofasgardartpic1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/83882/1982034-thortalesofasgardartpic1.jpg"
+		},
+		"rating": "2",
+		"runtime": "73",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1304": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1304/",
+		"id": 1304,
+		"name": "Green Lantern Emerald Knights",
+		"site_detail_url": "http://www.comicvine.com/green-lantern-emerald-knights/4025-1304/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2685059-emeraldknights.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2685059-emeraldknights.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2685059-emeraldknights.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2685059-emeraldknights.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2685059-emeraldknights.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2685059-emeraldknights.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2685059-emeraldknights.png"
+		},
+		"rating": "2",
+		"runtime": "84",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1319": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1319/",
+		"id": 1319,
+		"name": "Wonder Woman",
+		"site_detail_url": "http://www.comicvine.com/wonder-woman/4025-1319/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/111114/2780610-wwa1.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/111114/2780610-wwa1.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/111114/2780610-wwa1.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/111114/2780610-wwa1.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/111114/2780610-wwa1.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/111114/2780610-wwa1.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/111114/2780610-wwa1.jpg"
+		},
+		"rating": null,
+		"runtime": "75",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1339": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1339/",
+		"id": 1339,
+		"name": "Batman: Year One",
+		"site_detail_url": "http://www.comicvine.com/batman-year-one/4025-1339/",
+		"box_office_revenue": null,
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/7/71436/1926781-81yakkojxpl._aa1500_.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/7/71436/1926781-81yakkojxpl._aa1500_.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "64",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1342": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1342/",
+		"id": 1342,
+		"name": "Ghost Rider: Spirit of Vengeance",
+		"site_detail_url": "http://www.comicvine.com/ghost-rider-spirit-of-vengeance/4025-1342/",
+		"box_office_revenue": null,
+		"budget": "57000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/2123036-ghost_rider_spirit_of_vengeance.jpeg"
+		},
+		"rating": "3",
+		"runtime": "121",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1359": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1359/",
+		"id": 1359,
+		"name": "The Wolverine",
+		"site_detail_url": "http://www.comicvine.com/the-wolverine/4025-1359/",
+		"box_office_revenue": null,
+		"budget": "120,000,000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/89742/2945874-bgthzv0cmai7yiz.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/89742/2945874-bgthzv0cmai7yiz.jpg"
+		},
+		"rating": null,
+		"runtime": "126",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1375": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1375/",
+		"id": 1375,
+		"name": "Man of Steel",
+		"site_detail_url": "http://www.comicvine.com/man-of-steel/4025-1375/",
+		"box_office_revenue": null,
+		"budget": "235000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/10/100647/3104479-man-of-steel.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/10/100647/3104479-man-of-steel.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/10/100647/3104479-man-of-steel.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/10/100647/3104479-man-of-steel.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/10/100647/3104479-man-of-steel.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/10/100647/3104479-man-of-steel.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/10/100647/3104479-man-of-steel.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "148",
+		"total_revenue": "643857505",
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-46778/",
+				"id": 46778,
+				"name": "David S. Goyer",
+				"site_detail_url": "http://www.comicvine.com/david-s-goyer/4040-46778/"
+			}
+		]
+	},
+	"1413": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1413/",
+		"id": 1413,
+		"name": "Justice League: Doom",
+		"site_detail_url": "http://www.comicvine.com/justice-league-doom/4025-1413/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62058/2192676-doom.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62058/2192676-doom.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62058/2192676-doom.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62058/2192676-doom.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62058/2192676-doom.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62058/2192676-doom.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62058/2192676-doom.jpg"
+		},
+		"rating": "3",
+		"runtime": "77",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1455": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1455/",
+		"id": 1455,
+		"name": "Thor & Loki: Blood Brothers",
+		"site_detail_url": "http://www.comicvine.com/thor-loki-blood-brothers/4025-1455/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/58820/2054701-thor_and_loki_blood_brothers_2011.jpg"
+		},
+		"rating": null,
+		"runtime": "72",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1477": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1477/",
+		"id": 1477,
+		"name": "Superman",
+		"site_detail_url": "http://www.comicvine.com/superman/4025-1477/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52074/2107301-superman_serial.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52074/2107301-superman_serial.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52074/2107301-superman_serial.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52074/2107301-superman_serial.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52074/2107301-superman_serial.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52074/2107301-superman_serial.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52074/2107301-superman_serial.jpg"
+		},
+		"rating": "5",
+		"runtime": "244",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1499": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1499/",
+		"id": 1499,
+		"name": "Superman vs. The Elite",
+		"site_detail_url": "http://www.comicvine.com/superman-vs-the-elite/4025-1499/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62058/2217444-screen_shot_2012_02_25_at_6.30.18_pm.png"
+		},
+		"rating": "3",
+		"runtime": "74",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1510": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1510/",
+		"id": 1510,
+		"name": "The Silver Surfer",
+		"site_detail_url": "http://www.comicvine.com/the-silver-surfer/4025-1510/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/80778/2290667-260460164_5ac5cff341_o.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/80778/2290667-260460164_5ac5cff341_o.jpg"
+		},
+		"rating": null,
+		"runtime": "5",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1512": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1512/",
+		"id": 1512,
+		"name": "Iron Man 3",
+		"site_detail_url": "http://www.comicvine.com/iron-man-3/4025-1512/",
+		"box_office_revenue": "413,712,000",
+		"budget": "200000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/9/99801/2966197-iron+man+3+poster+final.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/9/99801/2966197-iron+man+3+poster+final.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "130",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1514": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1514/",
+		"id": 1514,
+		"name": "Thor: The Dark World",
+		"site_detail_url": "http://www.comicvine.com/thor-the-dark-world/4025-1514/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/89742/3212944-h13w.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/89742/3212944-h13w.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/89742/3212944-h13w.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/89742/3212944-h13w.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/89742/3212944-h13w.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/89742/3212944-h13w.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/89742/3212944-h13w.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "112",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-4068/",
+				"id": 4068,
+				"name": "Larry Lieber",
+				"site_detail_url": "http://www.comicvine.com/larry-lieber/4040-4068/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40897/",
+				"id": 40897,
+				"name": "Christopher Yost",
+				"site_detail_url": "http://www.comicvine.com/christopher-yost/4040-40897/"
+			}
+		]
+	},
+	"1515": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1515/",
+		"id": 1515,
+		"name": "The Dark Knight Returns: Part One",
+		"site_detail_url": "http://www.comicvine.com/the-dark-knight-returns-part-one/4025-1515/",
+		"box_office_revenue": null,
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62070/2667995-dkrart.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62070/2667995-dkrart.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62070/2667995-dkrart.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62070/2667995-dkrart.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62070/2667995-dkrart.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62070/2667995-dkrart.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62070/2667995-dkrart.png"
+		},
+		"rating": "3",
+		"runtime": "78",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1530": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1530/",
+		"id": 1530,
+		"name": "Yarasa Adam - Betmen",
+		"site_detail_url": "http://www.comicvine.com/yarasa-adam-betmen/4025-1530/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/111114/2377306-1973yarasa_adambedmen.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/111114/2377306-1973yarasa_adambedmen.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1531": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1531/",
+		"id": 1531,
+		"name": "Süpermen Dönüyor",
+		"site_detail_url": "http://www.comicvine.com/supermen-donuyor/4025-1531/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/111114/2377553-supermen.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/111114/2377553-supermen.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/111114/2377553-supermen.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/111114/2377553-supermen.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/111114/2377553-supermen.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/111114/2377553-supermen.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/111114/2377553-supermen.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1541": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1541/",
+		"id": 1541,
+		"name": "Guardians of the Galaxy",
+		"site_detail_url": "http://www.comicvine.com/guardians-of-the-galaxy/4025-1541/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/9/99801/3656466-hgf4.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/9/99801/3656466-hgf4.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/9/99801/3656466-hgf4.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/9/99801/3656466-hgf4.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/9/99801/3656466-hgf4.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/9/99801/3656466-hgf4.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/9/99801/3656466-hgf4.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1542": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1542/",
+		"id": 1542,
+		"name": "Captain America: The Winter Soldier",
+		"site_detail_url": "http://www.comicvine.com/captain-america-the-winter-soldier/4025-1542/",
+		"box_office_revenue": null,
+		"budget": "170000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/89742/3395779-ukz3.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/89742/3395779-ukz3.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/89742/3395779-ukz3.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/89742/3395779-ukz3.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/89742/3395779-ukz3.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/89742/3395779-ukz3.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/89742/3395779-ukz3.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "136",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-9443/",
+				"id": 9443,
+				"name": "Joe Simon",
+				"site_detail_url": "http://www.comicvine.com/joe-simon/4040-9443/"
+			}
+		]
+	},
+	"1548": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1548/",
+		"id": 1548,
+		"name": "Marvel One Shot: The Consultant",
+		"site_detail_url": "http://www.comicvine.com/marvel-one-shot-the-consultant/4025-1548/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/12/128807/2484367-the_consultant.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/12/128807/2484367-the_consultant.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/12/128807/2484367-the_consultant.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/12/128807/2484367-the_consultant.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/12/128807/2484367-the_consultant.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/12/128807/2484367-the_consultant.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/12/128807/2484367-the_consultant.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1549": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1549/",
+		"id": 1549,
+		"name": "X-Men: Days of Future Past",
+		"site_detail_url": "http://www.comicvine.com/x-men-days-of-future-past/4025-1549/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/3716137-bjfrllacqaey3sr.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/3716137-bjfrllacqaey3sr.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-64481/",
+				"id": 64481,
+				"name": "Matthew Vaughn",
+				"site_detail_url": "http://www.comicvine.com/matthew-vaughn/4040-64481/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-64499/",
+				"id": 64499,
+				"name": "Bryan Singer",
+				"site_detail_url": "http://www.comicvine.com/bryan-singer/4040-64499/"
+			}
+		]
+	},
+	"1552": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1552/",
+		"id": 1552,
+		"name": "Ant-Man",
+		"site_detail_url": "http://www.comicvine.com/ant-man/4025-1552/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/10/100647/3514006-ant-man-logo.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/10/100647/3514006-ant-man-logo.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/10/100647/3514006-ant-man-logo.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/10/100647/3514006-ant-man-logo.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/10/100647/3514006-ant-man-logo.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/10/100647/3514006-ant-man-logo.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/10/100647/3514006-ant-man-logo.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-68823/",
+				"id": 68823,
+				"name": "Edgar Wright",
+				"site_detail_url": "http://www.comicvine.com/edgar-wright/4040-68823/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-68825/",
+				"id": 68825,
+				"name": "Joe Cornish",
+				"site_detail_url": "http://www.comicvine.com/joe-cornish/4040-68825/"
+			}
+		]
+	},
+	"1563": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1563/",
+		"id": 1563,
+		"name": "Avengers: Age of Ultron",
+		"site_detail_url": "http://www.comicvine.com/avengers-age-of-ultron/4025-1563/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/3/38919/3189821-xavengers-age-of-ultron-logo.jpg.pagespeed.ic._tr9fq7ga7.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-5614/",
+				"id": 5614,
+				"name": "Jack Kirby",
+				"site_detail_url": "http://www.comicvine.com/jack-kirby/4040-5614/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40467/",
+				"id": 40467,
+				"name": "Stan Lee",
+				"site_detail_url": "http://www.comicvine.com/stan-lee/4040-40467/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40956/",
+				"id": 40956,
+				"name": "Joss Whedon",
+				"site_detail_url": "http://www.comicvine.com/joss-whedon/4040-40956/"
+			}
+		]
+	},
+	"1570": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1570/",
+		"id": 1570,
+		"name": "The Dark Knight Returns: Part Two",
+		"site_detail_url": "http://www.comicvine.com/the-dark-knight-returns-part-two/4025-1570/",
+		"box_office_revenue": null,
+		"budget": "3500000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62058/2687955-batman_the_dark_knight_returns_part_2_poster.jpg"
+		},
+		"rating": "3",
+		"runtime": "74",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1589": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1589/",
+		"id": 1589,
+		"name": "Iron Man: Rise of Technovore",
+		"site_detail_url": "http://www.comicvine.com/iron-man-rise-of-technovore/4025-1589/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/8/89742/2636431-iron_man_anime_film.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/8/89742/2636431-iron_man_anime_film.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/8/89742/2636431-iron_man_anime_film.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/8/89742/2636431-iron_man_anime_film.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/8/89742/2636431-iron_man_anime_film.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/8/89742/2636431-iron_man_anime_film.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/8/89742/2636431-iron_man_anime_film.png"
+		},
+		"rating": null,
+		"runtime": "88 minutes",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-6609/",
+				"id": 6609,
+				"name": "Don Heck",
+				"site_detail_url": "http://www.comicvine.com/don-heck/4040-6609/"
+			}
+		]
+	},
+	"1596": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1596/",
+		"id": 1596,
+		"name": "Iron Man & Hulk: Heroes United",
+		"site_detail_url": "http://www.comicvine.com/iron-man-hulk-heroes-united/4025-1596/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/119711/2932953-igjoejgiroegj.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/119711/2932953-igjoejgiroegj.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/119711/2932953-igjoejgiroegj.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/119711/2932953-igjoejgiroegj.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/119711/2932953-igjoejgiroegj.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/119711/2932953-igjoejgiroegj.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/119711/2932953-igjoejgiroegj.png"
+		},
+		"rating": "2",
+		"runtime": "72",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1604": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1604/",
+		"id": 1604,
+		"name": "LEGO Batman: The Movie - DC Super Heroes Unite",
+		"site_detail_url": "http://www.comicvine.com/lego-batman-the-movie-dc-super-heroes-unite/4025-1604/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/62058/2845899-lego_batman_themovie_dc_superheroes_unite.jpg"
+		},
+		"rating": "1",
+		"runtime": "71",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1651": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1651/",
+		"id": 1651,
+		"name": "The Amazing Spider-Man 2",
+		"site_detail_url": "http://www.comicvine.com/the-amazing-spider-man-2/4025-1651/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/40/3509737-the_amazing_spider-man_2.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/40/3509737-the_amazing_spider-man_2.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1655": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1655/",
+		"id": 1655,
+		"name": "Justice League",
+		"site_detail_url": "http://www.comicvine.com/justice-league/4025-1655/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/1/1-male-good-large.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/1/1-male-good-large.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/1/1-male-good-large.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/1/1-male-good-large.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/1/1-male-good-large.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/1/1-male-good-large.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/1/1-male-good-large.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-46778/",
+				"id": 46778,
+				"name": "David S. Goyer",
+				"site_detail_url": "http://www.comicvine.com/david-s-goyer/4040-46778/"
+			}
+		]
+	},
+	"1672": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1672/",
+		"id": 1672,
+		"name": "Superman: Unbound",
+		"site_detail_url": "http://www.comicvine.com/superman-unbound/4025-1672/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/65423/2852936-supermanunboundbr.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/65423/2852936-supermanunboundbr.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/65423/2852936-supermanunboundbr.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/65423/2852936-supermanunboundbr.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/65423/2852936-supermanunboundbr.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/65423/2852936-supermanunboundbr.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/65423/2852936-supermanunboundbr.jpg"
+		},
+		"rating": "3",
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1734": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1734/",
+		"id": 1734,
+		"name": "Wonder Women! The Untold Story of American Superheroines",
+		"site_detail_url": "http://www.comicvine.com/wonder-women-the-untold-story-of-american-superher/4025-1734/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/5/52074/2941674-logo.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/5/52074/2941674-logo.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/5/52074/2941674-logo.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/5/52074/2941674-logo.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/5/52074/2941674-logo.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/5/52074/2941674-logo.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/5/52074/2941674-logo.png"
+		},
+		"rating": null,
+		"runtime": "79",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1764": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1764/",
+		"id": 1764,
+		"name": "Justice League: The Flashpoint Paradox",
+		"site_detail_url": "http://www.comicvine.com/justice-league-the-flashpoint-paradox/4025-1764/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/66303/2988082-justiceleaguetheflashpointparadox-finalboxart.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40439/",
+				"id": 40439,
+				"name": "Geoff Johns",
+				"site_detail_url": "http://www.comicvine.com/geoff-johns/4040-40439/"
+			}
+		]
+	},
+	"1816": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1816/",
+		"id": 1816,
+		"name": "City of Scars",
+		"site_detail_url": "http://www.comicvine.com/city-of-scars/4025-1816/",
+		"box_office_revenue": null,
+		"budget": "$27,000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/14/147237/3078897-city+of+scars.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/14/147237/3078897-city+of+scars.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/14/147237/3078897-city+of+scars.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/14/147237/3078897-city+of+scars.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/14/147237/3078897-city+of+scars.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/14/147237/3078897-city+of+scars.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/14/147237/3078897-city+of+scars.jpg"
+		},
+		"rating": null,
+		"runtime": "30",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-71408/",
+				"id": 71408,
+				"name": "Aaron Schoenke",
+				"site_detail_url": "http://www.comicvine.com/aaron-schoenke/4040-71408/"
+			}
+		]
+	},
+	"1817": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1817/",
+		"id": 1817,
+		"name": "Patient J",
+		"site_detail_url": "http://www.comicvine.com/patient-j/4025-1817/",
+		"box_office_revenue": null,
+		"budget": "$5,000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/14/147237/3078903-joker.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/14/147237/3078903-joker.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/14/147237/3078903-joker.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/14/147237/3078903-joker.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/14/147237/3078903-joker.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/14/147237/3078903-joker.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/14/147237/3078903-joker.jpg"
+		},
+		"rating": null,
+		"runtime": "34 minutes",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-71408/",
+				"id": 71408,
+				"name": "Aaron Schoenke",
+				"site_detail_url": "http://www.comicvine.com/aaron-schoenke/4040-71408/"
+			}
+		]
+	},
+	"1818": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1818/",
+		"id": 1818,
+		"name": "Seeds of Arkham",
+		"site_detail_url": "http://www.comicvine.com/seeds-of-arkham/4025-1818/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/14/147237/3078911-seeds.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/14/147237/3078911-seeds.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/14/147237/3078911-seeds.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/14/147237/3078911-seeds.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/14/147237/3078911-seeds.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/14/147237/3078911-seeds.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/14/147237/3078911-seeds.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1850": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1850/",
+		"id": 1850,
+		"name": "The Lego Movie",
+		"site_detail_url": "http://www.comicvine.com/the-lego-movie/4025-1850/",
+		"box_office_revenue": null,
+		"budget": "60000000",
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/111746/3119080-0774785280-The_L.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/111746/3119080-0774785280-The_L.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/111746/3119080-0774785280-The_L.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/111746/3119080-0774785280-The_L.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/111746/3119080-0774785280-The_L.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/111746/3119080-0774785280-The_L.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/111746/3119080-0774785280-The_L.jpg"
+		},
+		"rating": "PG",
+		"runtime": "100",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1916": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1916/",
+		"id": 1916,
+		"name": "Justice League: War",
+		"site_detail_url": "http://www.comicvine.com/justice-league-war/4025-1916/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64675/3410266-justice+league+war.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64675/3410266-justice+league+war.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64675/3410266-justice+league+war.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64675/3410266-justice+league+war.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64675/3410266-justice+league+war.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64675/3410266-justice+league+war.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64675/3410266-justice+league+war.png"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40439/",
+				"id": 40439,
+				"name": "Geoff Johns",
+				"site_detail_url": "http://www.comicvine.com/geoff-johns/4040-40439/"
+			}
+		]
+	},
+	"1932": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1932/",
+		"id": 1932,
+		"name": "JLA Adventures: Trapped In Time",
+		"site_detail_url": "http://www.comicvine.com/jla-adventures-trapped-in-time/4025-1932/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64675/3596606-dvdcoverfinal.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64675/3596606-dvdcoverfinal.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64675/3596606-dvdcoverfinal.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64675/3596606-dvdcoverfinal.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64675/3596606-dvdcoverfinal.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64675/3596606-dvdcoverfinal.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64675/3596606-dvdcoverfinal.jpg"
+		},
+		"rating": null,
+		"runtime": "52",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-4265/",
+				"id": 4265,
+				"name": "Michael Ryan",
+				"site_detail_url": "http://www.comicvine.com/michael-ryan/4040-4265/"
+			}
+		]
+	},
+	"1933": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1933/",
+		"id": 1933,
+		"name": "LEGO Marvel Super Heroes: Maximum Overload",
+		"site_detail_url": "http://www.comicvine.com/lego-marvel-super-heroes-maximum-overload/4025-1933/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/111746/3585390-9ikyrkk.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/111746/3585390-9ikyrkk.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/111746/3585390-9ikyrkk.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/111746/3585390-9ikyrkk.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/111746/3585390-9ikyrkk.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/111746/3585390-9ikyrkk.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/111746/3585390-9ikyrkk.jpg"
+		},
+		"rating": null,
+		"runtime": "22",
+		"total_revenue": null,
+		"writers": null
+	},
+	"1934": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1934/",
+		"id": 1934,
+		"name": "Avengers Confidential: Black Widow & Punisher",
+		"site_detail_url": "http://www.comicvine.com/avengers-confidential-black-widow-punisher/4025-1934/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64675/3706771-portrait_uncanny.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64675/3706771-portrait_uncanny.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64675/3706771-portrait_uncanny.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64675/3706771-portrait_uncanny.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64675/3706771-portrait_uncanny.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64675/3706771-portrait_uncanny.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64675/3706771-portrait_uncanny.jpg"
+		},
+		"rating": "PG-13",
+		"runtime": "83",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-55792/",
+				"id": 55792,
+				"name": "Marjorie Liu",
+				"site_detail_url": "http://www.comicvine.com/marjorie-liu/4040-55792/"
+			}
+		]
+	},
+	"1935": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1935/",
+		"id": 1935,
+		"name": "Son of Batman",
+		"site_detail_url": "http://www.comicvine.com/son-of-batman/4025-1935/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/6/64675/3591848-tumblr_mzt2i6nsbf1rr0x4wo1_1280.jpg"
+		},
+		"rating": null,
+		"runtime": "74 minutes",
+		"total_revenue": null,
+		"writers": [
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-8472/",
+				"id": 8472,
+				"name": "Andy Kubert",
+				"site_detail_url": "http://www.comicvine.com/andy-kubert/4040-8472/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-19137/",
+				"id": 19137,
+				"name": "Bob Kane",
+				"site_detail_url": "http://www.comicvine.com/bob-kane/4040-19137/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-40434/",
+				"id": 40434,
+				"name": "Grant Morrison",
+				"site_detail_url": "http://www.comicvine.com/grant-morrison/4040-40434/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-42389/",
+				"id": 42389,
+				"name": "James Robinson",
+				"site_detail_url": "http://www.comicvine.com/james-robinson/4040-42389/"
+			},
+			{
+				"api_detail_url": "http://www.comicvine.com/api/writer/4040-44253/",
+				"id": 44253,
+				"name": "Joe R. Lansdale",
+				"site_detail_url": "http://www.comicvine.com/joe-r-lansdale/4040-44253/"
+			}
+		]
+	},
+	"1945": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1945/",
+		"id": 1945,
+		"name": "Phineas and Ferb: Mission Marvel",
+		"site_detail_url": "http://www.comicvine.com/phineas-and-ferb-mission-marvel/4025-1945/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/0/1/1-male-good-large.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/0/1/1-male-good-large.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/0/1/1-male-good-large.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/0/1/1-male-good-large.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/0/1/1-male-good-large.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/0/1/1-male-good-large.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/0/1/1-male-good-large.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1950": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1950/",
+		"id": 1950,
+		"name": "The Fantastic Four",
+		"site_detail_url": "http://www.comicvine.com/the-fantastic-four/4025-1950/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11/113509/3674201-reboot.png",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11/113509/3674201-reboot.png",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11/113509/3674201-reboot.png",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11/113509/3674201-reboot.png",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11/113509/3674201-reboot.png",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11/113509/3674201-reboot.png",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11/113509/3674201-reboot.png"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	},
+	"1961": {
+		"api_detail_url": "http://www.comicvine.com/api/movie/4025-1961/",
+		"id": 1961,
+		"name": "Look, Up in the Sky! The Amazing Story of Superman",
+		"site_detail_url": "http://www.comicvine.com/look-up-in-the-sky-the-amazing-story-of-superman/4025-1961/",
+		"box_office_revenue": null,
+		"budget": null,
+		"image": {
+			"icon_url": "http://static.comicvine.com/uploads/square_avatar/11113/111139730/3726924-4415006621-look-.jpg",
+			"medium_url": "http://static.comicvine.com/uploads/scale_medium/11113/111139730/3726924-4415006621-look-.jpg",
+			"screen_url": "http://static.comicvine.com/uploads/screen_medium/11113/111139730/3726924-4415006621-look-.jpg",
+			"small_url": "http://static.comicvine.com/uploads/scale_small/11113/111139730/3726924-4415006621-look-.jpg",
+			"super_url": "http://static.comicvine.com/uploads/scale_large/11113/111139730/3726924-4415006621-look-.jpg",
+			"thumb_url": "http://static.comicvine.com/uploads/scale_avatar/11113/111139730/3726924-4415006621-look-.jpg",
+			"tiny_url": "http://static.comicvine.com/uploads/square_mini/11113/111139730/3726924-4415006621-look-.jpg"
+		},
+		"rating": null,
+		"runtime": null,
+		"total_revenue": null,
+		"writers": null
+	}
+}

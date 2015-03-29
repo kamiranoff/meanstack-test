@@ -4,7 +4,7 @@
   <div class="panel-body">
     <div ng-repeat="course in courses | orderBy:'published':true | limitTo:10" class="row">
       <div class="col-md-3">{{course.published | date:'MMM d'}}</div>
-      <div class="col-md-9"><a href="/courses/{{course._id}}">{{course.title}}{{course.title}}</a></div>
+      <div class="col-md-9"><a href="/courses/{{course._id}}">{{course.title}}</a></div>
     </div>
   </div>
 </div>

@@ -1,7 +1,9 @@
 .navbar.navbar-default
   .navbar-header
+    button.navbar-toggle.collapsed(type="button",data-toggle="collapse",data-target="#navigation")
+      span.fa.fa-bars
     a.navbar-brand(href="/") Meanstack Prototype
-  .navbar-collapse
+  .navbar-collapse.collapse(id="navigation")
     ul.nav.navbar-nav
       li
         a(href="/") Home

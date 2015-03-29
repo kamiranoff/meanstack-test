@@ -1,0 +1,782 @@
+{
+  "1": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-1/",
+    "id": 1,
+    "name": "Flight",
+    "category": "movement"
+  },
+  "2": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-2/",
+    "id": 2,
+    "name": "Super Strength",
+    "category": "body"
+  },
+  "3": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-3/",
+    "id": 3,
+    "name": "Super Speed",
+    "category": "movement"
+  },
+  "4": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-4/",
+    "id": 4,
+    "name": "Agility",
+    "category": "human"
+  },
+  "5": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-5/",
+    "id": 5,
+    "name": "Stamina",
+    "category": "durability"
+  },
+  "6": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-6/",
+    "id": 6,
+    "name": "Invulnerability",
+    "category": "durability"
+  },
+  "7": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-7/",
+    "id": 7,
+    "name": "Telepathy",
+    "category": "mind"
+  },
+  "8": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-8/",
+    "id": 8,
+    "name": "Telekinesis",
+    "category": "mind"
+  },
+  "9": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-9/",
+    "id": 9,
+    "name": "Intellect",
+    "category": "human"
+  },
+  "10": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-10/",
+    "id": 10,
+    "name": "Teleport",
+    "category": "movement"
+  },
+  "11": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-11/",
+    "id": 11,
+    "name": "Radar Sense",
+    "category": "sense"
+  },
+  "12": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-12/",
+    "id": 12,
+    "name": "Psychic",
+    "category": "mind"
+  },
+  "13": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-13/",
+    "id": 13,
+    "name": "Force Field",
+    "category": "energy"
+  },
+  "14": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-14/",
+    "id": 14,
+    "name": "Blast Power",
+    "category": "energy"
+  },
+  "15": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-15/",
+    "id": 15,
+    "name": "Healing",
+    "category": "durability"
+  },
+  "16": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-16/",
+    "id": 16,
+    "name": "Magic",
+    "category": "magic"
+  },
+  "17": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-17/",
+    "id": 17,
+    "name": "Weapon Master",
+    "category": "fighting"
+  },
+  "18": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-18/",
+    "id": 18,
+    "name": "Super Sight",
+    "category": "sense"
+  },
+  "19": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-19/",
+    "id": 19,
+    "name": "Super Smell",
+    "category": "sense"
+  },
+  "20": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-20/",
+    "id": 20,
+    "name": "Super Hearing",
+    "category": "sense"
+  },
+  "21": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-21/",
+    "id": 21,
+    "name": "Invisibility",
+    "category": "body"
+  },
+  "22": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-22/",
+    "id": 22,
+    "name": "Phasing / Ghost",
+    "category": "body"
+  },
+  "23": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-23/",
+    "id": 23,
+    "name": "Chameleon",
+    "category": "body"
+  },
+  "24": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-24/",
+    "id": 24,
+    "name": "Shape Shifter",
+    "category": "body"
+  },
+  "25": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-25/",
+    "id": 25,
+    "name": "Magnetism",
+    "category": "energy"
+  },
+  "26": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-26/",
+    "id": 26,
+    "name": "Fire Control",
+    "category": "energy"
+  },
+  "27": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-27/",
+    "id": 27,
+    "name": "Implants",
+    "category": "science"
+  },
+  "28": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-28/",
+    "id": 28,
+    "name": "Feral",
+    "category": "body"
+  },
+  "29": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-29/",
+    "id": 29,
+    "name": "Psionic",
+    "category": "mind"
+  },
+  "30": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-30/",
+    "id": 30,
+    "name": "Insanely Rich",
+    "category": "human"
+  },
+  "31": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-31/",
+    "id": 31,
+    "name": "Power Suit",
+    "category": "science"
+  },
+  "32": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-32/",
+    "id": 32,
+    "name": "Radiation",
+    "category": "energy"
+  },
+  "33": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-33/",
+    "id": 33,
+    "name": "Elasticity",
+    "category": "body"
+  },
+  "34": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-34/",
+    "id": 34,
+    "name": "Unarmed Combat",
+    "category": "fighting"
+  },
+  "35": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-35/",
+    "id": 35,
+    "name": "Gadgets",
+    "category": "science"
+  },
+  "36": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-36/",
+    "id": 36,
+    "name": "Weather Control",
+    "category": "energy"
+  },
+  "37": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-37/",
+    "id": 37,
+    "name": "Divine Powers",
+    "category": "magic"
+  },
+  "38": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-38/",
+    "id": 38,
+    "name": "Siphon Abilities",
+    "category": "energy"
+  },
+  "39": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-39/",
+    "id": 39,
+    "name": "Size Manipulation",
+    "category": "body"
+  },
+  "40": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-40/",
+    "id": 40,
+    "name": "Immortal",
+    "category": "durability"
+  },
+  "49": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-49/",
+    "id": 49,
+    "name": "Necromancy",
+    "category": "magic"
+  },
+  "50": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-50/",
+    "id": 50,
+    "name": "Vampirism",
+    "category": "magic"
+  },
+  "51": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-51/",
+    "id": 51,
+    "name": "Electricity Control",
+    "category": "energy"
+  },
+  "52": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-52/",
+    "id": 52,
+    "name": "Ice Control",
+    "category": "energy"
+  },
+  "53": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-53/",
+    "id": 53,
+    "name": "Sub-Mariner",
+    "category": "movement"
+  },
+  "54": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-54/",
+    "id": 54,
+    "name": "Wall Clinger",
+    "category": "movement"
+  },
+  "55": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-55/",
+    "id": 55,
+    "name": "Mesmerize",
+    "category": "mind"
+  },
+  "56": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-56/",
+    "id": 56,
+    "name": "Penance Stare",
+    "category": "mind"
+  },
+  "57": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-57/",
+    "id": 57,
+    "name": "Sonic Scream",
+    "category": "energy"
+  },
+  "58": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-58/",
+    "id": 58,
+    "name": "Escape Artist",
+    "category": "human"
+  },
+  "59": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-59/",
+    "id": 59,
+    "name": "Tracking",
+    "category": "sense"
+  },
+  "60": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-60/",
+    "id": 60,
+    "name": "Astral Projection",
+    "category": "magic"
+  },
+  "61": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-61/",
+    "id": 61,
+    "name": "Danger Sense",
+    "category": "sense"
+  },
+  "64": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-64/",
+    "id": 64,
+    "name": "Possession",
+    "category": "magic"
+  },
+  "65": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-65/",
+    "id": 65,
+    "name": "Sand manipulation",
+    "category": "energy"
+  },
+  "66": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-66/",
+    "id": 66,
+    "name": "Adaptive",
+    "category": "body"
+  },
+  "67": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-67/",
+    "id": 67,
+    "name": "Electronic interaction",
+    "category": "science"
+  },
+  "68": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-68/",
+    "id": 68,
+    "name": "Animation",
+    "category": "energy"
+  },
+  "69": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-69/",
+    "id": 69,
+    "name": "Probability Manipulation",
+    "category": "magic"
+  },
+  "70": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-70/",
+    "id": 70,
+    "name": "Super Eating",
+    "category": "body"
+  },
+  "71": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-71/",
+    "id": 71,
+    "name": "Precognition",
+    "category": "time"
+  },
+  "72": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-72/",
+    "id": 72,
+    "name": "Energy-Enhanced Strike",
+    "category": "energy"
+  },
+  "73": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-73/",
+    "id": 73,
+    "name": "Technopathy",
+    "category": "science"
+  },
+  "74": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-74/",
+    "id": 74,
+    "name": "Inertia Absorption",
+    "category": "durability"
+  },
+  "75": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-75/",
+    "id": 75,
+    "name": "Light Projection",
+    "category": "energy"
+  },
+  "76": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-76/",
+    "id": 76,
+    "name": "Holographic Projection",
+    "category": "science"
+  },
+  "77": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-77/",
+    "id": 77,
+    "name": "Reality Manpulation",
+    "category": "magic"
+  },
+  "78": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-78/",
+    "id": 78,
+    "name": "Swordsmanship",
+    "category": "fighting"
+  },
+  "79": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-79/",
+    "id": 79,
+    "name": "Electronic Disruption",
+    "category": "science"
+  },
+  "80": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-80/",
+    "id": 80,
+    "name": "Levitation",
+    "category": "movement"
+  },
+  "81": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-81/",
+    "id": 81,
+    "name": "Soul Absorption",
+    "category": "magic"
+  },
+  "82": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-82/",
+    "id": 82,
+    "name": "Duplication",
+    "category": "energy"
+  },
+  "83": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-83/",
+    "id": 83,
+    "name": "Emotion Control",
+    "category": "mind"
+  },
+  "84": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-84/",
+    "id": 84,
+    "name": "Matter Absorption",
+    "category": "energy"
+  },
+  "85": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-85/",
+    "id": 85,
+    "name": "Dimensional Manipulation",
+    "category": "body"
+  },
+  "87": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-87/",
+    "id": 87,
+    "name": "Animal Control",
+    "category": "magic"
+  },
+  "88": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-88/",
+    "id": 88,
+    "name": "Enhance Mutation",
+    "category": "energy"
+  },
+  "89": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-89/",
+    "id": 89,
+    "name": "Omni-lingual",
+    "category": "sense"
+  },
+  "90": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-90/",
+    "id": 90,
+    "name": "Postcognition",
+    "category": "time"
+  },
+  "91": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-91/",
+    "id": 91,
+    "name": "Shadowmeld",
+    "category": "body"
+  },
+  "92": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-92/",
+    "id": 92,
+    "name": "Energy Shield",
+    "category": "energy"
+  },
+  "93": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-93/",
+    "id": 93,
+    "name": "Time Travel",
+    "category": "time"
+  },
+  "94": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-94/",
+    "id": 94,
+    "name": "Siphon Lifeforce",
+    "category": "magic"
+  },
+  "95": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-95/",
+    "id": 95,
+    "name": "Sense Death",
+    "category": "sense"
+  },
+  "96": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-96/",
+    "id": 96,
+    "name": "Darkforce Manipulation",
+    "category": "magic"
+  },
+  "97": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-97/",
+    "id": 97,
+    "name": "Vibration Wave",
+    "category": "energy"
+  },
+  "98": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-98/",
+    "id": 98,
+    "name": "Power Mimicry",
+    "category": "energy"
+  },
+  "99": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-99/",
+    "id": 99,
+    "name": "Empathy",
+    "category": "mind"
+  },
+  "100": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-100/",
+    "id": 100,
+    "name": "Gravity control",
+    "category": "energy"
+  },
+  "101": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-101/",
+    "id": 101,
+    "name": "Darkness Manipulation",
+    "category": "magic"
+  },
+  "102": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-102/",
+    "id": 102,
+    "name": "Illusion Casting",
+    "category": "mind"
+  },
+  "103": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-103/",
+    "id": 103,
+    "name": "Heat Vision",
+    "category": "energy"
+  },
+  "104": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-104/",
+    "id": 104,
+    "name": "Psychometry",
+    "category": "mind"
+  },
+  "105": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-105/",
+    "id": 105,
+    "name": "Wind Bursts",
+    "category": "energy"
+  },
+  "106": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-106/",
+    "id": 106,
+    "name": "Density Control",
+    "category": "durability"
+  },
+  "107": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-107/",
+    "id": 107,
+    "name": "Earth Manipulation",
+    "category": "energy"
+  },
+  "108": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-108/",
+    "id": 108,
+    "name": "Marksmanship",
+    "category": "fighting"
+  },
+  "109": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-109/",
+    "id": 109,
+    "name": "Genetic Manipulation",
+    "category": "science"
+  },
+  "110": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-110/",
+    "id": 110,
+    "name": "Time Manipulation",
+    "category": "time"
+  },
+  "111": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-111/",
+    "id": 111,
+    "name": "Power Item",
+    "category": "magic"
+  },
+  "112": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-112/",
+    "id": 112,
+    "name": "Plant Control",
+    "category": "magic"
+  },
+  "113": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-113/",
+    "id": 113,
+    "name": "Claws",
+    "category": "body"
+  },
+  "114": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-114/",
+    "id": 114,
+    "name": "Death Touch",
+    "category": "magic"
+  },
+  "115": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-115/",
+    "id": 115,
+    "name": "Hypnosis",
+    "category": "mind"
+  },
+  "116": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-116/",
+    "id": 116,
+    "name": "Poisonous",
+    "category": "body"
+  },
+  "117": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-117/",
+    "id": 117,
+    "name": "Pheromone Control",
+    "category": "body"
+  },
+  "118": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-118/",
+    "id": 118,
+    "name": "Water Control",
+    "category": "energy"
+  },
+  "119": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-119/",
+    "id": 119,
+    "name": "Chemical Secretion",
+    "category": "science"
+  },
+  "120": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-120/",
+    "id": 120,
+    "name": "Energy Absorption",
+    "category": "durability"
+  },
+  "121": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-121/",
+    "id": 121,
+    "name": "Attractive Female",
+    "category": "human"
+  },
+  "122": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-122/",
+    "id": 122,
+    "name": "Attractive Male",
+    "category": "human"
+  },
+  "123": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-123/",
+    "id": 123,
+    "name": "Energy Manipulation",
+    "category": "energy"
+  },
+  "124": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-124/",
+    "id": 124,
+    "name": "Cosmic Awareness",
+    "category": "magic"
+  },
+  "125": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-125/",
+    "id": 125,
+    "name": "Willpower-Based Constructs",
+    "category": "magic"
+  },
+  "126": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-126/",
+    "id": 126,
+    "name": "Heat Generation",
+    "category": "energy"
+  },
+  "128": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-128/",
+    "id": 128,
+    "name": "Energy Based Constructs",
+    "category": "energy"
+  },
+  "129": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-129/",
+    "id": 129,
+    "name": "Synaesthesia",
+    "category": "sense"
+  },
+  "130": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-130/",
+    "id": 130,
+    "name": "Voice-induced Manipulation",
+    "category": "mind"
+  },
+  "131": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-131/",
+    "id": 131,
+    "name": "Chemical Absorbtion",
+    "category": "body"
+  },
+  "132": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-132/",
+    "id": 132,
+    "name": "Stealth",
+    "category": "human"
+  },
+  "133": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-133/",
+    "id": 133,
+    "name": "Berserker Strength",
+    "category": "body"
+  },
+  "135": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-135/",
+    "id": 135,
+    "name": "Leadership",
+    "category": "human"
+  },
+  "136": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-136/",
+    "id": 136,
+    "name": "Longevity",
+    "category": "durability"
+  },
+  "137": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-137/",
+    "id": 137,
+    "name": "Controlled Bone Growth",
+    "category": "body"
+  },
+  "138": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-138/",
+    "id": 138,
+    "name": "Webslinger",
+    "category": "energy"
+  },
+  "139": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-139/",
+    "id": 139,
+    "name": "Ice Breath",
+    "category": "energy"
+  },
+  "140": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-140/",
+    "id": 140,
+    "name": "Flame Breath",
+    "category": "energy"
+  },
+  "141": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-141/",
+    "id": 141,
+    "name": "Hellfire Control",
+    "category": "magic"
+  },
+  "142": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-142/",
+    "id": 142,
+    "name": "Prehensile Hair",
+    "category": "body"
+  },
+  "143": {
+    "api_detail_url": "http://www.comicvine.com/api/power/4035-143/",
+    "id": 143,
+    "name": "Blood Control",
+    "category": "body"
+  }
+}

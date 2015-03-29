@@ -45,7 +45,7 @@ mainAngularApp.config(function($routeProvider,$locationProvider){
       templateUrl: '/partials/kevin/kevin',
       controller: 'mvKevinCtrl',
     }).when('/learn-understand-angular',{
-      templateUrl: '/partials/lean-and-understand-angular/angular1',
+      templateUrl: '/partials/learn-and-understand-angular/angular1',
       controller: 'mvLearnCtrl',
     });
 });

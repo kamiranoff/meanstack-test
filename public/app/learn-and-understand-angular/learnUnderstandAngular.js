@@ -1,4 +1,4 @@
-mainAngularApp.controller('mvLearnCtrl',['$scope','$log','$filter',function($scope,$log,$filter){
+mainAngularApp.controller('mvLearnCtrl',['$scope','$log','$filter','$http',function($scope,$log,$filter,$http){
   $scope.title = 'Learn and understand AngularJS ';
   $scope.how = function(time,speed){
     return time/speed;
@@ -8,6 +8,8 @@ mainAngularApp.controller('mvLearnCtrl',['$scope','$log','$filter',function($sco
   $scope.handle ='';
 
   $scope.characters = 5;
+  // Simple GET request example :
+
 
   $log.log("log");
   $log.info($scope.filtering);

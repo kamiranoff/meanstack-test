@@ -6,16 +6,21 @@
     <link href="favicon.ico" rel="icon">
     <link href="/css/bootstrap.css" rel="stylesheet">
     <link href="/css/superhero.min.css" rel="stylesheet">
+    <link href="/bower_components/font-awesome/css/font-awesome.css" rel="stylesheet">
     <link href="/bower_components/toastr/toastr.css" rel="stylesheet">
     <link href="/css/site.css" rel="stylesheet">
   </head>
   <body ng-app="app">
-    <div class="navbar navbar-default navbar-fixed-top">
-      <div class="navbar-header"><a href="#" class="navbar-brand">Meanstack Prototype
-          <h6>-Extreme Tech Training</h6></a></div>
-      <div class="navbar-collapse">
+    <div class="navbar navbar-default">
+      <div class="navbar-header">
+        <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggle collapsed"><span class="fa fa-bars"></span></button><a href="/" class="navbar-brand">Meanstack Prototype</a>
+      </div>
+      <div id="navigation" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="#">Home</a></li>
+          <li><a href="/">Home</a></li>
+          <li><a href="/courses">Courses</a></li>
+          <li><a href="/about/kevin">About Me</a></li>
+          <li><a href="/learn-understand-angular">Learn And Understang Angular</a></li>
         </ul>
         <div ng-include="'partials/account/navbar-login'"></div>
       </div>
@@ -35,5 +40,17 @@
     <script type="text/javascript" src="/app/account/mvIdentity.js"></script>
     <script type="text/javascript" src="/app/common/mvNotifier.js"></script>
     <script type="text/javascript" src="/app/account/mvAuth.js"></script>
+    <script type="text/javascript" src="/app/account/mvUsers.js"></script>
+    <script type="text/javascript" src="/app/account/mvSignupCtrl.js"></script>
+    <script type="text/javascript" src="/app/account/mvProfileCtrl.js"></script>
+    <script type="text/javascript" src="/app/admin/mvUserListCtrl.js"></script>
+    <script type="text/javascript" src="/app/courses/mvCourseListCtrl.js"></script>
+    <script type="text/javascript" src="/app/courses/mvCourse.js"></script>
+    <script type="text/javascript" src="/app/courses/mvCachedCourses.js"></script>
+    <script type="text/javascript" src="/app/courses/mvCourseDetailCtrl.js"></script>
+    <script type="text/javascript" src="/app/kevin/mvKevin.js"></script>
+    <script type="text/javascript" src="/app/kevin/mvCachedKevin.js"></script>
+    <script type="text/javascript" src="/app/kevin/mvKevinCtrl.js"></script>
+    <script type="text/javascript" src="/app/lean-and-understand-angular/learnUnderstandAngular.js"></script>
   </body>
 </html>
